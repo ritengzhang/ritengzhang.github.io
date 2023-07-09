@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-An undergraduate Boston College student who loves to study the interpretability of neural networks. I am majoring in Math and CS, with a philosophy minor.
+An undergraduate Boston College student who loves to study the interpretability of neural networks and reasoning in nlp. I am majoring in Math and CS, with a philosophy minor.
 
 - 🔭 I’m currently working on [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants), [Interpretability of LLM and an Automated Finetuning Model](https://github.com/ritengzhang/Interpretability-of-llm-and-an-automated-finetuning-framework).
 
@@ -36,9 +36,14 @@ descriptions not yet available
 
 descriptions not yet available
 
--[Evaluation of GPT-3.5 Chat Creation Few-Shot Ability with Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
+-[Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
 
-It's simple to use GPT chat creation as a chatbot, but what if we want GPT models with chat creation functions to do a traditional task on a huge dataset? The high-quality content of GPT output is assured for such traditional tasks even using zero-shot, but without using finetuning or few-shot, the output is not formatted in any expected way. How to make GPT 3.5 and 4 output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
+It's simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
+
+## Startup-[Blossoms ai](Blossoms.ai)
+At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
+
+I am responsible for everything related to AI or ML in BlossomsAI.
 
 ## Other Interesting Projects
 -[MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
@@ -49,3 +54,9 @@ In this project, we use around 50 Twitter posts from the same person to predict 
 ](https://github.com/zhangcoj/ML_Project)
 
 Using customized simple cv models and famous models such as inception to predict the level of Alzheimer’s Disease using the MRI image of the brain.
+
+## Coursera Professional Certificates
+- Deep Learning (DeepLearning.AI)
+- Natural Language Processing (DeepLearning.AI)
+- TensorFlow: Advanced Techniques (DeepLearning.AI)
+- Machine learning (Stanford University)
