@@ -9,7 +9,7 @@ An undergraduate Boston College student who loves to study the interpretability 
 
 - 🔭 I’m also working under [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
-- 🔭 I’ve previously worked on [Evaluation of GPT-3.5 Chat Creation Few-Shot Ability with Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
+- 🔭 I’ve previously worked on [Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
 
 - 🌱 I’m currently learning **GANs, ML Engineering for Production...**
 
@@ -36,7 +36,7 @@ descriptions not yet available
 
 descriptions not yet available
 
-- [Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
+- [Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
 
 It's simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
 
