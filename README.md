@@ -15,7 +15,7 @@ An undergraduate Boston College student who loves to study the interpretability 
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
-- 📄 Here's my [resume](file:///C:/Users/17791/Downloads/Riteng%20Zhang%20Resume.pdf).
+- 📄 Here's my [resume](https://docs.google.com/document/d/1ttqFKYVGKvMkoMCnzmxG3loVfv4FE46_VediVRfsSFQ/edit).
 
 - ⚡ Fun fact: **I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).**
 
@@ -39,6 +39,11 @@ descriptions not yet available
 -[Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
 
 It's simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
+
+- Large ASR Model Evaluation for Under-resourced Language (under Professor Emily Prud'hommeaux)
+
+- Language Models Evaluation for Neuroatypical Language (under Professor Emily Prud'hommeaux)
+
 
 ## Startup-[Blossoms ai](Blossoms.ai)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
