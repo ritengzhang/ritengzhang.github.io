@@ -28,15 +28,15 @@ Python, Java, C
 ML: PyTorch, TensorFlow, scikit-learn, pandas, matplotlib, numpy...
 
 ## 🔭 Research
--[Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+- [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 descriptions not yet available
 
--[Interpretability of LLM and an Automated Finetuning Model](https://github.com/ritengzhang/Interpretability-of-llm-and-an-automated-finetuning-framework)
+- [Interpretability of LLM and an Automated Finetuning Model](https://github.com/ritengzhang/Interpretability-of-llm-and-an-automated-finetuning-framework)
 
 descriptions not yet available
 
--[Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
+- [Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-on-Few-Shot-formattingability-of-GPT-chat-creation)
 
 It's simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
 
@@ -51,11 +51,11 @@ At BlossomsAI, we are on a mission to transform education by leveraging the powe
 I am responsible for everything related to AI or ML in BlossomsAI.
 
 ## Other Interesting Projects
--[MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
+- [MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
 
 In this project, we use around 50 Twitter posts from the same person to predict the corresponding MBTI using various models, from simple models such as KNN and SVM (feature or encoding retrieved by transformers) to transformers including Bert and DistilBert setting different layers opened for training. The result is not satisfying though.
 
--[Classification of MRI on Alzheimer’s Disease
+- [Classification of MRI on Alzheimer’s Disease
 ](https://github.com/zhangcoj/ML_Project)
 
 Using customized simple cv models and famous models such as inception to predict the level of Alzheimer’s Disease using the MRI image of the brain.
