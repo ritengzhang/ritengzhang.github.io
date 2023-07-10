@@ -48,7 +48,7 @@ At BlossomsAI, we are on a mission to transform education by leveraging the powe
 
 I am responsible for everything related to AI or ML in BlossomsAI.
 
-## 	✏️ Other Interesting Projects
+## ✏️ Other Interesting Projects
 - [MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
 
 In this project, we use around 50 Twitter posts from the same person to predict the corresponding MBTI using various models, from simple models such as KNN and SVM (feature or encoding retrieved by transformers) to transformers including Bert and DistilBert setting different layers opened for training. The result is not satisfying though.
