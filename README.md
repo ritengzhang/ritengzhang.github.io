@@ -43,7 +43,7 @@ It's simple to use LLM like GPT chat creation as a chatbot, but what if we want 
 - Language Models Evaluation for Neuroatypical Language (under Professor Emily Prud'hommeaux)
 
 
-## 🏢 Startup-[Blossoms ai](blossoms.ai)
+## 🏢 Startup-[Blossoms ai](https://blossoms.ai/)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
 
 I am responsible for everything related to AI or ML in BlossomsAI.
