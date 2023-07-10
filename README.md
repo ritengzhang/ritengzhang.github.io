@@ -1,7 +1,6 @@
 # Hi, I'm Riteng (Gavin) Zhang! 👋
 
-
-## 🚀 About Me
+## 🌞 About Me
 An undergraduate Boston College student who loves to study the interpretability of neural networks and reasoning in nlp. I am majoring in Math and CS, with a philosophy minor.
 
 - 🔭 I’m currently working on [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants), [Interpretability of LLM and an Automated Finetuning Model](https://github.com/ritengzhang/Interpretability-of-llm-and-an-automated-finetuning-framework).
@@ -24,9 +23,9 @@ An undergraduate Boston College student who loves to study the interpretability 
 ## 🛠 Skills
 Python, Java, C
 
-ML: PyTorch, TensorFlow, scikit-learn, pandas, matplotlib, numpy...
+ML: PyTorch, TensorFlow, scikit-learn, pandas, matplotlib, numpy, re...
 
-## 🔭 Research
+## 📖 Research
 - [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 descriptions not yet available
@@ -44,12 +43,12 @@ It's simple to use LLM like GPT chat creation as a chatbot, but what if we want 
 - Language Models Evaluation for Neuroatypical Language (under Professor Emily Prud'hommeaux)
 
 
-## Startup-[Blossoms ai](Blossoms.ai)
+## 🏢 Startup-[Blossoms ai](blossoms.ai)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
 
 I am responsible for everything related to AI or ML in BlossomsAI.
 
-## Other Interesting Projects
+## 	✏️ Other Interesting Projects
 - [MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
 
 In this project, we use around 50 Twitter posts from the same person to predict the corresponding MBTI using various models, from simple models such as KNN and SVM (feature or encoding retrieved by transformers) to transformers including Bert and DistilBert setting different layers opened for training. The result is not satisfying though.
