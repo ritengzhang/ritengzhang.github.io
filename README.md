@@ -4,7 +4,7 @@
 ## 🌞 About Me
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
 
-- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)), [Interpretability of Neural Language Model: A Survey](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey/settings), [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants).
+- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)), [Interpretability of Neural Language Model: A Survey](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey/settings) and [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants).
 
 - 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
