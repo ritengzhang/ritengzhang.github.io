@@ -12,7 +12,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - 📖 Teaching Assistant for CSCI 3345 Machine Learning
 
-- 🌱 I’m currently learning GANs, ML Engineering for Production...
+- 🌱 Currently learning and planning to learn: GANs, geometry, topology...
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
