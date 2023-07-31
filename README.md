@@ -4,7 +4,7 @@
 ## 🌞 About Me
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
 
-- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)), [Interpretability of Neural Language Model: A Survey](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey/settings) and [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants).
+- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)), **Interpretability of Neural Language Model: A Survey** and **Interpretability of Inception and its Variants**.
 
 - 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
@@ -29,15 +29,15 @@ Python, Java, C
 ML: PyTorch, TensorFlow, scikit-learn, pandas, Matplotlib, numpy, re...
 
 ## 📖 Research
-- [Interpretability of Inception and its Variants](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+- Interpretability of Inception and its Variants
 
 It is intuitive to infer from the design of the inception model that the foundational cnn blocks are ideally adaptive which gives the model a higher potential of learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its data change when training on different tasks? Can we prove the cnn block in models like inception to be adaptive?
 
-- [Interpretability of Neural Language Model: A Survey](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey/settings)
+- Interpretability of Neural Language Model: A Survey
 
 The interpretability of the black box model itself is an intriguing but complex academic question, and as Large Language Models become more and more popular in recent years, it is also important for human to try their best to understand these models. Thus, the difference in the motivation for tackling this task and the difficulty of this task make the field of interpretability somewhat chaotic. Therefore, a review paper that organizes the methods, problems, and developments in this field (especially the relationship between LLM behavior and LM interpretability methods) is necessary. 
 
-- [Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
+- Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output
 
 It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
 
