@@ -8,7 +8,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
-- 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai/). 
+- 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai/about). 
 
 - 📖 Teaching Assistant for CSCI 3345 Machine Learning
 
@@ -29,13 +29,19 @@ Python, Java, C
 ML: PyTorch, TensorFlow, scikit-learn, pandas, Matplotlib, numpy, re...
 
 ## 📖 Research
+Here's the revised version of your text with grammar and fluency improvements:
+
+-Interpretability of Large Language Models and Their Emergent Abilities
+
+The interpretability of the black box model itself presents an intriguing yet complex academic question. As Large Language Models (LLMs) gain increasing popularity in recent years, it becomes imperative for humans to make every effort to comprehend these models. The divergent motivations for addressing this challenge, coupled with the inherent difficulty it poses, contribute to the somewhat chaotic nature of the field of interpretability. Consequently, a comprehensive review paper that systematically organizes the methods, issues, and advancements in this domain is essential. This paper particularly focuses on the intricate relationship between LLM behavior and methods for interpreting LMs, drawing inspiration from Table I in the paper titled "[Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)." The proposed review paper categorizes the interpretability methods into three dimensions: what aspect of the model is being interpreted, the source of information used for interpretation, and the nature of the information presented to individuals. Moreover, a fourth dimension is considered, accounting for the specifics of the information presentation. Additionally, the emergent abilities of LLMs also necessitate interpretability. However, only a limited number of traditional methods can be effectively applied in this context. This paper will aslo delve into the constraints and potentialities of the commonly used interpretability methods when the objective is to comprehend emergent abilities.
+
 - Interpretability of Inception and its Variants
 
-It is intuitive to infer from the design of the inception model that the foundational cnn blocks are ideally adaptive which gives the model a higher potential of learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its data change when training on different tasks? Can we prove the cnn block in models like inception to be adaptive?
+It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
-- Interpretability of Neural Language Model: A Survey
+- CS placement test automation framework (preprint, with a different title)
 
-The interpretability of the black box model itself is an intriguing but complex academic question, and as Large Language Models become more and more popular in recent years, it is also important for human to try their best to understand these models. Thus, the difference in the motivation for tackling this task and the difficulty of this task make the field of interpretability somewhat chaotic. Therefore, a review paper that organizes the methods, problems, and developments in this field (especially the relationship between LLM behavior and LM interpretability methods) is necessary. 
+Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
 - Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output
 
@@ -46,7 +52,7 @@ It is simple to use LLM like GPT chat creation as a chatbot, but what if we want
 - Language Models Evaluation for Neuroatypical Language (BC NLP lab)
 
 
-## 🏢 Startup-[Blossoms ai](https://blossoms.ai/)
+## 🏢 Startup-[Blossoms ai](https://blossoms.ai/about)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
 
 As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI.
@@ -59,7 +65,7 @@ In this project, we use around 50 Twitter posts from the same person to predict 
 - [Classification of MRI on Alzheimer’s Disease
 ](https://github.com/zhangcoj/ML_Project)
 
-Using customized simple cv models and famous models such as inception to predict the level of Alzheimer’s Disease using the MRI image of the brain.
+Using customized simple CV models and famous models such as inception to predict the level of Alzheimer’s Disease using the MRI image of the brain.
 
 ## Coursera Professional Certificates
 - Deep Learning (DeepLearning.AI)
