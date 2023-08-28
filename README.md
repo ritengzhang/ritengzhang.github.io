@@ -29,7 +29,6 @@ Python, Java, C
 ML: PyTorch, TensorFlow, scikit-learn, pandas, Matplotlib, numpy, re...
 
 ## 📖 Research
-Here's the revised version of your text with grammar and fluency improvements:
 
 -Interpretability of Large Language Models and Their Emergent Abilities
 
