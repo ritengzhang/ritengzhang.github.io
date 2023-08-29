@@ -16,7 +16,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
-- 📄 Here's my [resume](https://drive.google.com/file/d/1gRTI5FARtSkbReyVs4uSRQIyKWVbRKJj/view?usp=drive_link).
+- 📄 Here's my [cv](https://drive.google.com/file/d/1ifqGQyxjWXerkbqMenZ2lG_rHPg0oIrr/view?usp=drive_link).
 
 - ⚡ Fun fact: I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).
 
@@ -54,7 +54,7 @@ It is simple to use LLM like GPT chat creation as a chatbot, but what if we want
 ## 🏢 Startup-[Blossoms ai](https://blossoms.ai/about)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
 
-As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI， including neceesary researches and back end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
+As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI， including necessary research and back-end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
 
 ## ✏️ Other Interesting Projects
 - [MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
@@ -73,4 +73,4 @@ Using customized simple CV models and famous models such as inception to predict
 - Machine learning (Stanford University)
 
 ## Reference
-[1]Madsen, Andreas, Siva Reddy, and Sarath Chandar. "[Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)." ACM Computing Surveys 55, no. 8 (2022): 1-42.
+[1] Madsen, Andreas, Siva Reddy, and Sarath Chandar. "[Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)." ACM Computing Surveys 55, no. 8 (2022): 1-42.
