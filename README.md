@@ -54,7 +54,7 @@ It is simple to use LLM like GPT chat creation as a chatbot, but what if we want
 ## 🏢 Startup-[Blossoms ai](https://blossoms.ai/about)
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests. 
 
-As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI.
+As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI， including neceesary researches and back end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
 
 ## ✏️ Other Interesting Projects
 - [MBTI classification using social media posts](https://github.com/YifanZhou1999/NLP_project_Fall_22)
