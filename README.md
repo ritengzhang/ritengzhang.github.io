@@ -29,26 +29,26 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 ## 📖 Research
 
-- Interpretability of Large Language Models and Their Emergent Abilities (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+- **Interpretability of Large Language Models and Their Emergent Abilities** (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 The interpretability of the black box model itself presents an intriguing yet complex academic question. As Large Language Models (LLMs) have gained increasing popularity in recent years, it becomes imperative for humans to make every effort to comprehend these models. The divergent motivations for addressing this challenge, coupled with the inherent difficulty it poses, contribute to the somewhat chaotic nature of the field of interpretability. Consequently, a comprehensive review paper that systematically organizes the methods, issues, and advancements in this domain is essential. This paper particularly focuses on the intricate relationship between LLM behavior and methods for interpreting LLMs. Drawing inspiration from Table I in the paper titled "[1][Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)", the proposed review paper categorizes the interpretability methods into three dimensions: what aspect of the model is being interpreted, the source of information used for interpretation, and the nature of the information presented to individuals. Moreover, a fourth dimension is considered, accounting for the specifics of the information presentation.
 Additionally, the emergent abilities of LLMs also necessitate interpretability. However, only a limited number of traditional methods can be effectively applied in this context. This paper will also delve into the constraints and potentialities of the commonly used interpretability methods when the objective is to comprehend emergent abilities.
 
-- Interpretability of Inception and its Variants (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
+- **Interpretability of Inception and its Variants** (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
 It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
-- CS placement test automation framework (preprint, with a different title)
+- **CS placement test automation framework** (preprint, with a different title)
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
-- Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+- **Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output** (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
 
-- Large ASR Model Evaluation for Under-resourced Language (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html)) 
+- **Large ASR Model Evaluation for Under-resourced Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html)) 
 
-- Language Models Evaluation for Neuroatypical Language (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+- **Language Models Evaluation for Neuroatypical Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 
 ## 🏢 Startup-[Blossoms ai](https://blossoms.ai/about)
