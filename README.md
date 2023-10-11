@@ -1,6 +1,6 @@
 # Hi, I'm Riteng (Gavin) Zhang! 👋
 
-<img src="IMG_5767 (1).jpeg" width="170" height="300" alt="Image Alt Text">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/0d4f23b0dfd2cf87812c37b1956610b011ae6418/IMG_5767%20(1).jpeg?raw=true" width="170" height="300" alt="Image Alt Text">
 
 ## About Me 🌞
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
