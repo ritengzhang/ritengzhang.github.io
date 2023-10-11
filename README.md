@@ -21,10 +21,10 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 ## ✏️ Research Interest
 
-- Exploring the potential specialties in unique graph designs in deep learning models on certain tasks.
-- Systematic Neural NLP interpretability.
-- Meta-learning theory and its applications in deep learning.
-- Emergent ability in LLM interpretation and prediction.
+- Neural Architecture Search
+- Systematic Neural NLP interpretability
+- Meta-learning in (or using) deep learning
+- interpretation and prediction of LLM Behavior, Emergent ability
 
 ## Research 📖
 ![Research Image](http://research_image_link.jpg)
