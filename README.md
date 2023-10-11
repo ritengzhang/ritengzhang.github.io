@@ -1,9 +1,13 @@
 # Hi, I'm Riteng (Gavin) Zhang! 👋
 
-## 🌞 About Me
+![Your Picture](http://your_picture_link.jpg)
+
+## About Me 🌞
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
 
-- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)), [**Interpretability of Neural Language Model: A Survey**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) and [**Interpretability of Inception and its Variants**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants).
+- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
+    - [**Interpretability of Neural Language Model: A Survey**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+    - [**Interpretability of Inception and its Variants**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 - 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
@@ -18,36 +22,40 @@ An undergraduate student from Boston College who loves to study deep neural netw
 ## ✏️ Research Interest
 
 - Exploring the potential specialties in unique graph designs in deep learning models on certain tasks.
+- Systematic Neural NLP interpretability.
+- Meta-learning theory and its applications in deep learning.
+- Emergent ability in LLM interpretation and prediction.
 
-- Systematic Neural NLP interpretability
-
-- Meta-learning theory and its applications in deep learning
-
-- Emergent ability in LLM interpretation and prediction
-
-## 📖 Research
-
+## Research 📖
+![Research Image](http://research_image_link.jpg)
 - [**Interpretability of Large Language Models and Their Emergent Abilities**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-The interpretability of the black box model itself presents an intriguing yet complex academic question. As Large Language Models (LLMs) have gained increasing popularity in recent years, it becomes imperative for humans to make every effort to comprehend these models. The divergent motivations for addressing this challenge, coupled with the inherent difficulty it poses, contribute to the somewhat chaotic nature of the field of interpretability. Consequently, a comprehensive review paper that systematically organizes the methods, issues, and advancements in this domain is essential. This paper particularly focuses on the intricate relationship between LLM behavior and methods for interpreting LLMs. Drawing inspiration from Table I in the paper titled "[1][Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)", the proposed review paper categorizes the interpretability methods into three dimensions: what aspect of the model is being interpreted, the source of information used for interpretation, and the nature of the information presented to individuals. Moreover, a fourth dimension is considered, accounting for the specifics of the information presentation. Additionally, the emergent abilities of LLMs also necessitate interpretability. However, only a limited number of traditional methods can be effectively applied in this context. This paper will also delve into the constraints and potentialities of the commonly used interpretability methods when the objective is to comprehend emergent abilities.
+    The interpretability of the black box model itself presents an intriguing yet complex academic question. As Large Language Models (LLMs) have gained increasing popularity in recent years, it becomes imperative for humans to make every effort to comprehend these models. The divergent motivations for addressing this challenge, coupled with the inherent difficulty it poses, contribute to the somewhat chaotic nature of the field of interpretability. Consequently, a comprehensive review paper that systematically organizes the methods, issues, and advancements in this domain is essential. This paper particularly focuses on the intricate relationship between LLM behavior and methods for interpreting LLMs. Drawing inspiration from Table I in the paper titled "[1][Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)," the proposed review paper categorizes the interpretability methods into three dimensions: what aspect of the model is being interpreted, the source of information used for interpretation, and the nature of the information presented to individuals. Moreover, a fourth dimension is considered, accounting for the specifics of the information presentation. Additionally, the emergent abilities of LLMs also necessitate interpretability. However, only a limited number of traditional methods can be effectively applied in this context. This paper will also delve into the constraints and potentialities of the commonly used interpretability methods when the objective is to comprehend emergent abilities.
 
+![Research Image](http://research_image_link.jpg)
 - [**Interpretability of Inception and its Variants**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
-It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
+    It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
+![Research Image](http://research_image_link.jpg)
 - **CS placement test automation framework** (preprint, with a different title)
 
-Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
+    Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
+![Research Image](http://research_image_link.jpg)
 - **Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output** (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated?
+    It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated.
 
+![Research Image](http://research_image_link.jpg)
 - **Large ASR Model Evaluation for Under-resourced Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
+![Research Image](http://research_image_link.jpg)
 - **Language Models Evaluation for Neuroatypical Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-## 🏢 Startup-[Blossoms ai](https://blossoms.ai/about)
+## Startup - [Blossoms ai](https://blossoms.ai/about)
+![Startup Image](http://startup_image_link.jpg)
+
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
 As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI, including necessary research and back-end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
