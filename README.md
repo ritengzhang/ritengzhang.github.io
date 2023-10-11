@@ -27,7 +27,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 - interpretation and prediction of LLM Behavior, Emergent ability
 
 ## Research 📖
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/b2b83301f0c7f64712278e0f4e35f3c90094b748/%E4%B8%8B%E8%BD%BD.png" width="200" height="180" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/b2b83301f0c7f64712278e0f4e35f3c90094b748/%E4%B8%8B%E8%BD%BD.png" width="350" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
 
 - [**Interpretability of Large Language Models and Their Emergent Abilities**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
