@@ -1,6 +1,6 @@
 # Hi, I'm Riteng (Gavin) Zhang! 👋
 
-![Your Picture](https://drive.google.com/file/d/16F_8VhXjIYbB4MhxwnW5q4ee5heWdLcY/view?usp=drive_link)
+![](https://drive.google.com/file/d/16F_8VhXjIYbB4MhxwnW5q4ee5heWdLcY/view?usp=drive_link)
 
 ## About Me 🌞
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
