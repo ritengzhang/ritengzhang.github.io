@@ -1,6 +1,6 @@
 # Hi, I'm Riteng (Gavin) Zhang! 👋
 
-![Your Picture](http://your_picture_link.jpg)
+![Your Picture](https://drive.google.com/file/d/16F_8VhXjIYbB4MhxwnW5q4ee5heWdLcY/view?usp=drive_link)
 
 ## About Me 🌞
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
@@ -38,7 +38,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
     It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
 ![Research Image](http://research_image_link.jpg)
-- **CS placement test automation framework** (preprint, with a different title)
+- **CS placement test automation framework** (preprint, Coauthored with Yi LI and Angela Qu, advised by [Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
 
     Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
