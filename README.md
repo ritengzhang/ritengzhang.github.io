@@ -39,8 +39,9 @@ The interpretability of the black box model itself presents an intriguing yet co
 
 It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
-![Research Image](http://research_image_link.jpg)
 - **CS placement test automation framework** (preprint, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
+
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="400" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
