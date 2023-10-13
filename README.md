@@ -35,20 +35,21 @@ The interpretability of the black box model itself presents an intriguing yet co
 
 - [**Interpretability of Inception and its Variants**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/inceptionpic.jpg?raw=true" width="400" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/inceptionpic.jpg?raw=true" width="500" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 It is intuitive to infer from the design of the Inception model that the foundational CNN blocks are ideally adaptive, thereby providing the model with a greater potential for learning various tasks of different kinds more efficiently. How do the weights of different kernel sizes in its architecture change when the model is trained on different tasks at various stages of training? Can we establish the adaptiveness of the CNN blocks in models like Inception?
 
 - **CS placement test automation framework** (preprint, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="400" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">]()
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
-![Research Image](http://research_image_link.jpg)
 - [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-    It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated.
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
+
+It is simple to use LLM like GPT chat creation as a chatbot, but what if we want LLMs with chat creation functions to do a traditional task on a huge dataset? The high-quality content in LLMs' output is assured for such traditional tasks even when using zero-shot, but without using fine-tuning or few-shot, the output is not formatted in any expected way. How to make LLMs output in an expected way? Do we give instructions? How many examples for Few-Shot? Is fine-tuning still necessary even when the format is complicated.
 
 - **Large ASR Model Evaluation for Under-resourced Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
