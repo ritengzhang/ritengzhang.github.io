@@ -26,7 +26,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 - Meta-learning in (or using) deep learning
 - interpretation and prediction of LLM Behavior, Emergent ability
 
-## Publications 📖
+## Publications 📄
 - **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
 
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">]()
