@@ -15,7 +15,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
-- 📄 Here's my [cv](https://drive.google.com/file/d/1sAAjXXgFIBTys0rD_-GgpoP_Dx9eALXQ/view?usp=drive_link).
+- 📄 Here's my [cv](https://drive.google.com/file/d/1jOaTo6TVqKWrp6oOAZcBvh4j9IMNeXGY/view?usp=drive_link).
 
 - ⚡ Fun fact: I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).
 
