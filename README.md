@@ -6,7 +6,7 @@
 An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
 
 - 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
-    - [**Interpretability of Neural Language Model: A Survey**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+    - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
     - [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 - 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
@@ -15,7 +15,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
-- 📄 Here's my [cv](https://drive.google.com/file/d/1jOaTo6TVqKWrp6oOAZcBvh4j9IMNeXGY/view?usp=drive_link).
+- 📄 Here's my [cv](https://drive.google.com/file/d/1siJwfdKBOcTTRYtkArB9GGeo0Ovp4oPT/view?usp=drive_link).
 
 - ⚡ Fun fact: I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).
 
@@ -34,7 +34,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
 ## Research 📖
-- [**Interpretability of Large Language Models and Their Emergent Abilities**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+- [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/%E4%B8%8B%E8%BD%BD.png?raw=true" width="400" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
 
