@@ -26,13 +26,6 @@ An undergraduate student from Boston College who loves to study deep neural netw
 - Meta-learning in (or using) deep learning
 - interpretation and prediction of LLM Behavior, Emergent ability
 
-## Publications 📄
-- **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
-
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">]()
-
-Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
-
 ## Research 📖
 - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
@@ -55,6 +48,13 @@ It is simple to use LLM like GPT chat creation as a chatbot, but what if we want
 - **Large ASR Model Evaluation for Under-resourced Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 - **Language Models Evaluation for Neuroatypical Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+
+## Publications 📄
+- **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
+
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">]()
+
+Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
 ## Startup - [Blossoms ai](https://blossoms.ai/about)
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="400" height="320" alt="Image Alt Text">](https://blossoms.ai/about)
