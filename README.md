@@ -38,7 +38,7 @@ Understanding and analyzing branch specialization is crucial for several reasons
 
 [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/inceptionpic.jpg?raw=true" width="500" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/inceptionpic.jpg?raw=true" width="700" height="500" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 This paper investigates the variability in layer feature attribution across different branches in the One-Layer Inception neural network architecture. Despite using consistent datasets, model architectures, and hyperparameters, training with different initial parameters leads to differences in neuron roles and contributions. Our focus is on how the choice of hyperparameters affects the variation in the contribution of each branch in the One-Layer Inception model. Using various datasets, we conducted 15 training sessions with the  One-Layer Inception model for each hyperparameter combination. The study reveals that factors like larger batch sizes and lower learning rates lead to a reduced variance in feature attribution across different training sessions. In addition, variation in layer feature attribution is lower for models trained on more complex datasets.
 
@@ -50,13 +50,13 @@ This paper investigates the variability in layer feature attribution across diff
 ## Other Research 📖
 - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/%E4%B8%8B%E8%BD%BD.png?raw=true" width="400" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/%E4%B8%8B%E8%BD%BD.png?raw=true" width="500" height="400" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
 
 Inspired by Table I in the paper titled "[1]Post-hoc Interpretability for Neural NLP: A Survey," I have systematically categorized interpretability methods into 17 spectrums, such as Global vs. Local and Post-hoc vs. Inherent interpretability. This paper provides a more structured examination of current interpretability methods and their applications. Additionally, it includes discussions on the connection of interpretability to Large Language Models (LLMs), such as works on interpreting and predicting the emergent abilities or capacities of LLMs.
 
 - [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/gptformatedpic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/gptformatedpic.jpg?raw=true" width="700" height="400" alt="Image Alt Text">](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
 
 These experiments are designed to systematically evaluate the performance of GPT models under various conditions, focusing on their ability to generate formatted output and provide accurate answers. The collected metrics aid in assessing the models' capabilities and limitations in handling diverse scenarios and formatting requirements. More details can be found in the repository. The ideas presented in papers like "[2]Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?", which question the contribution of intrusive labels and instructive instructions, are also tested in these experiments. However, the tested GPT family model performs too well on the chosen dataset to observe a significant difference. The retrievable answers are usually the correct choices from the output space.
 
@@ -67,12 +67,12 @@ These experiments are designed to systematically evaluate the performance of GPT
 ## Publications 📄
 - **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="600" height="320" alt="Image Alt Text">]()
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="700" height="410" alt="Image Alt Text">]()
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
 ## Startup - [Blossoms ai](https://blossoms.ai/about)
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="400" height="320" alt="Image Alt Text">](https://blossoms.ai/about)
+[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="700" height="450" alt="Image Alt Text">](https://blossoms.ai/about)
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
