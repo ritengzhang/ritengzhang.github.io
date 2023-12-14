@@ -19,12 +19,12 @@ An undergraduate student from Boston College who loves to study deep neural netw
 
 - ⚡ Fun fact: I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).
 
-## ✏️ Research Interest
+## Research Interest ✏️
 - Interpretability of black box model and its applications (trustworthy, robust, fair AI)
 - Neural Architecture Search
 - Interpretability in the Context of Large Language Models: Interpretation and Prediction of LLM Capabilities and Emergent Abilities
 
-## 🌳 Branch Specialization Analysis Project
+## Branch Specialization Analysis Project 🌳
 The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency.
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" width="320" height="320" alt="Image Alt Text">
@@ -71,7 +71,7 @@ These experiments are designed to systematically evaluate the performance of GPT
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
-## Startup - [Blossoms ai](https://blossoms.ai/about)
+## Startup - [Blossoms ai](https://blossoms.ai/about) 🤖➕🎓
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="700" height="450" alt="Image Alt Text">](https://blossoms.ai/about)
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
