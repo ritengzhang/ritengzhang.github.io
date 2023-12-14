@@ -27,7 +27,7 @@ An undergraduate student from Boston College who loves to study deep neural netw
 ## 🌳 Branch Specialization Analysis Project
 The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency.
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png" width="320" height="320" alt="Image Alt Text">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" width="320" height="320" alt="Image Alt Text">
 
 Branch specialization in the context of neural networks refers to the phenomenon where different branches, layers, or segments within a neural network develop or are designed to handle specific types of tasks or process specific kinds of information. In deep learning models, which often consist of complex and layered structures, not all parts of the network contribute equally or in the same way to the final output. Instead, certain branches might become more attuned to particular features or aspects of the data.
 
