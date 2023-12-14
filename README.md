@@ -36,13 +36,16 @@ Understanding and analyzing branch specialization is crucial for several reasons
 - It can lead to more efficient network designs, where unnecessary or redundant branches can be identified and pruned without loss of overall functionality.
 - It provides insights that can be utilized in neural architecture search (NAS) to design optimized and task-specific models.
 
+
+**Papers:**
+
 [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/inceptionpic.jpg?raw=true" width="700" height="500" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 This paper investigates the variability in layer feature attribution across different branches in the One-Layer Inception neural network architecture. Despite using consistent datasets, model architectures, and hyperparameters, training with different initial parameters leads to differences in neuron roles and contributions. Our focus is on how the choice of hyperparameters affects the variation in the contribution of each branch in the One-Layer Inception model. Using various datasets, we conducted 15 training sessions with the  One-Layer Inception model for each hyperparameter combination. The study reveals that factors like larger batch sizes and lower learning rates lead to a reduced variance in feature attribution across different training sessions. In addition, variation in layer feature attribution is lower for models trained on more complex datasets.
 
-**Future stages**
+**Future stages:**
 - Employing methods like Probing to assess branch specialization consistency across various neural models more directly. 
 - Extending evaluation beyond one-layer models to include more complex branched architectures, analyzing deeper layers for branch specialization consistency principles.
 - Exploring additional aspects of branch specialization, not limited to consistency evaluation.
