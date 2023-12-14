@@ -9,7 +9,7 @@ I am an undergraduate student at Boston College, passionate about researching de
     - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
     - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
-- 🔈 Research Assistant works for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
+- 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
 
 - 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai/about).
 
