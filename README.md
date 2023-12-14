@@ -3,9 +3,9 @@
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/0d4f23b0dfd2cf87812c37b1956610b011ae6418/IMG_5767%20(1).jpeg?raw=true" width="170" height="300" alt="Image Alt Text">
 
 ## About Me 🌞
-An undergraduate student from Boston College who loves to study deep neural network interpretability. I am majoring in Math and CS, with a philosophy minor.
+I am an undergraduate student at Boston College, passionate about researching deep neural network interpretability and building interpretable AI systems. I am majoring in Mathematics and Computer Science, complemented by a minor in Philosophy.
 
-- 🔭 Currently working on my thesis and independent research (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
+- 🔭 Currently working on my thesis and independent research project (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
     - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
     - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
