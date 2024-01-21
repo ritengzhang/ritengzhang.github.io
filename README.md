@@ -11,7 +11,7 @@ I am an undergraduate student at Boston College, passionate about researching de
 
 - 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
   
-- 💬 Teaching assistant for CSCI3399 Vision and Learning, CSCI3345 Machine Learning in Boston College
+- 💬 Teaching assistant for **CSCI3399 Vision and Learning, CSCI3345 Machine Learning** in Boston College
 
 - 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai).
 
@@ -83,6 +83,13 @@ Different types of models, including LLMs, are utilized to create an automated p
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
 As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI, including necessary research and back-end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
+
+## Travel ✈️
+ACL 2023
+NeurIPS 2023
+
+## Talk
+Understanding LSTM Networks, Boston College Experimental Math & ML lab, Nov 2023
 
 ## Reference
 [1] Madsen, Andreas, Siva Reddy, and Sarath Chandar. "[Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)." ACM Computing Surveys 55, no. 8 (2022): 1-42.
