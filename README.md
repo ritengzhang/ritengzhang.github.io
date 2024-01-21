@@ -10,6 +10,8 @@ I am an undergraduate student at Boston College, passionate about researching de
     - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 - 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
+  
+- 💬 Teaching assistant for CSCI3399 Vision and Learning, CSCI3345 Machine Learning in Boston College
 
 - 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai/about).
 
@@ -21,15 +23,16 @@ I am an undergraduate student at Boston College, passionate about researching de
 
 ## Research Interest ✏️
 - Interpretability of black box model and its applications (trustworthy, robust, fair AI)
+- Deep learning model Modularity
 - Neural Architecture Search
 - Interpretability in the Context of Large Language Models: Interpretation and Prediction of LLM Capabilities and Emergent Abilities
 
 ## Branch Specialization Analysis Project 🌳
-The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency.
+The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency and exploring the potential of branch specialization in combining the functional and architectural modularity of deep learning models.
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" width="320" height="320" alt="Image Alt Text">
 
-Branch specialization in the context of neural networks refers to the phenomenon where different branches, layers, or segments within a neural network develop or are designed to handle specific types of tasks or process specific kinds of information. In deep learning models, which often consist of complex and layered structures, not all parts of the network contribute equally or in the same way to the final output. Instead, certain branches might become more attuned to particular features or aspects of the data.
+Branch specialization[3] in the context of neural networks refers to the phenomenon where different branches, layers, or segments within a neural network develop or are designed to handle specific types of tasks or process specific kinds of information. In deep learning models, which often consist of complex and layered structures, not all parts of the network contribute equally or in the same way to the final output. Instead, certain branches might become more attuned to particular features or aspects of the data.
 
 Understanding and analyzing branch specialization is crucial for several reasons:
 - It aids in creating more interpretable models, as it becomes clearer what roles different parts of the network are playing.
@@ -85,3 +88,6 @@ As co-founder and machine learning engineer in the company, I am responsible for
 [1] Madsen, Andreas, Siva Reddy, and Sarath Chandar. "[Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/abs/2108.04840)." ACM Computing Surveys 55, no. 8 (2022): 1-42.
 
 [2] Min, Sewon, et al. "[Rethinking the role of demonstrations: What makes in-context learning work?](https://arxiv.org/abs/2202.12837)." arXiv preprint arXiv:2202.12837 (2022).
+
+[3] Voss, Chelsea, et al. "[Branch Specialization](https://distill.pub/2020/circuits/branch-specialization/)." Distill (2021).
+
