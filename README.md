@@ -13,7 +13,7 @@ I am an undergraduate student at Boston College, passionate about researching de
   
 - 💬 Teaching assistant for CSCI3399 Vision and Learning, CSCI3345 Machine Learning in Boston College
 
-- 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai/about).
+- 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai).
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
@@ -77,7 +77,7 @@ These experiments are designed to systematically evaluate the performance of GPT
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
-## Startup - [Blossoms ai](https://blossoms.ai/about) 🤖➕🎓
+## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="700" height="450" alt="Image Alt Text">](https://blossoms.ai/about)
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
