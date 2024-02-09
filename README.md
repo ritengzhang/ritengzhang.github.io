@@ -6,7 +6,7 @@
 I am an undergraduate student at Boston College, passionate about researching deep neural network interpretability and building interpretable AI systems. I am majoring in Mathematics and Computer Science, complemented by a minor in Philosophy.
 
 - 🔭 Currently working on my thesis and independent research project (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
-    - [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+    - [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-Formalizing-and-Auto-Explaining-Framework)
     - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 - 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
@@ -54,11 +54,11 @@ This paper investigates the variability in layer feature attribution across diff
 - Exploring additional aspects of branch specialization, not limited to consistency evaluation.
 
 ## Other Research 📖
-- [**Dichotomy in Interpretability Approaches for Natural Language Processing**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+- [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
 [<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/%E4%B8%8B%E8%BD%BD.png?raw=true" width="500" height="400" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
 
-Inspired by Table I in the paper titled "[1]Post-hoc Interpretability for Neural NLP: A Survey," I have systematically categorized interpretability methods into 17 spectrums, such as Global vs. Local and Post-hoc vs. Inherent interpretability. This paper provides a more structured examination of current interpretability methods and their applications. Additionally, it includes discussions on the connection of interpretability to Large Language Models (LLMs), such as works on interpreting and predicting the emergent abilities or capacities of LLMs.
+Inspired by Table I in the paper titled "[1]Post-hoc Interpretability for Neural NLP: A Survey," I aimed to systematically categorize interpretability methods into 17 spectrums and document them in a survey. However, midway through this project, I began to question why I couldn't devise a system that automatically classifies these methods into the identified spectrums. By encoding these methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence(the functionality and application) of the deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local like what the previous surveys did, evaluates their complexity, fidelity, etc, and hopefully generates new methods through innovative approaches, such as generative sequence models(like tree RNN). 
 
 - [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
