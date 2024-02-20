@@ -45,7 +45,7 @@ The Branch Specialization[3] Analysis Project is a project of my own that will h
 
 **Papers under this project:**
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/branch%20attribution.jpg?raw=true" align="left" width="350" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/branch%20attribution.jpg?raw=true" align="left" width="300" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
 
 [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
@@ -55,7 +55,7 @@ This paper investigates the variability in layer feature attribution across diff
 
 ## Other Research 📖
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" align="left" width="350" height="300" alt="Interpretability Formalizing and Auto-Explaining Framework">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" align="left" width="300" height="300" alt="Interpretability Formalizing and Auto-Explaining Framework">
 
 [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) 
 
@@ -63,7 +63,7 @@ Inspired by "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to enc
 
 <br clear="all"/>
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/llm%20few%20shot.jpg?raw=true" align="left" width="350" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/llm%20few%20shot.jpg?raw=true" align="left" width="300" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
 
 [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) 
 
@@ -73,7 +73,7 @@ These experiments are designed to systematically evaluate the performance of GPT
 
 ## Publications 📄
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/cs%20palcement%20llms.jpg?raw=true" align="left" width="350" height="300" alt="CS Placement Test System">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/cs%20palcement%20llms.jpg?raw=true" align="left" width="300" height="300" alt="CS Placement Test System">
 
 **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html)) 
 
@@ -83,7 +83,7 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 ## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/K-12%20Education.jpg?raw=true" align="left" width="350" height="300" alt="Blossoms ai">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/K-12%20Education.jpg?raw=true" align="left" width="300" height="300" alt="Blossoms ai">
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
