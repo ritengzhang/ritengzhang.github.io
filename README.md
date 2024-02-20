@@ -1,9 +1,10 @@
 # Riteng (Gavin) Zhang
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/11348b56d16f33c458205b8bb4a59f97f87b4524/1.jpeg?raw=true" width="170" height="200" alt="Image Alt Text">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/11348b56d16f33c458205b8bb4a59f97f87b4524/1.jpeg?raw=true" align="left" width="170" height="200" alt="Riteng (Gavin) Zhang"> I am an undergraduate student at Boston College, passionate about researching deep neural network interpretability and building interpretable AI systems. I am majoring in Mathematics and Computer Science, complemented by a minor in Philosophy.
 
-## About Me 🌞
-I am an undergraduate student at Boston College, passionate about researching deep neural network interpretability and building interpretable AI systems. I am majoring in Mathematics and Computer Science, complemented by a minor in Philosophy.
+<br clear="all"/>
+
+## About Me
 
 - 🔭 Currently working on my thesis and independent research project (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
     - [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-Formalizing-and-Auto-Explaining-Framework)
@@ -22,67 +23,71 @@ I am an undergraduate student at Boston College, passionate about researching de
 - ⚡ Fun fact: I love history and philosophy (Modern Chinese, Ancient Roman history, Epistemology, and Existentialism in particular).
 
 ## Research Interest ✏️
+
 - Interpretability of black box model and its applications (trustworthy, robust, fair AI)
 - Deep learning model Modularity
 - Neural Architecture Search
 - Interpretability in the Context of Large Language Models: Interpretation and Prediction of LLM Capabilities and Emergent Abilities
 
 ## Branch Specialization Analysis Project 🌳
-The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency and exploring the potential of branch specialization in combining the functional and architectural modularity of deep learning models.
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" width="320" height="320" alt="Image Alt Text">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" align="left" width="300" height="300" alt="Branch Specialization Analysis">
 
-Branch specialization[3] in the context of neural networks refers to the phenomenon where different branches, layers, or segments within a neural network develop or are designed to handle specific types of tasks or process specific kinds of information. In deep learning models, which often consist of complex and layered structures, not all parts of the network contribute equally or in the same way to the final output. Instead, certain branches might become more attuned to particular features or aspects of the data.
+The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency and exploring the potential of branch specialization in combining the functional and architectural modularity of deep learning models. Understanding and analyzing branch specialization is crucial for several reasons:
 
-Understanding and analyzing branch specialization is crucial for several reasons:
-- It aids in creating more interpretable models, as it becomes clearer what roles different parts of the network are playing.
-- It can lead to more efficient network designs, where unnecessary or redundant branches can be identified and pruned without loss of overall functionality.
-- It provides insights that can be utilized in neural architecture search (NAS) to design optimized and task-specific models.
+&nbsp; - It aids in creating more interpretable models, as it becomes clearer what roles different parts of the network are playing.
 
+&nbsp; -  It can lead to more efficient network designs, where unnecessary or redundant branches can be identified and pruned without loss of overall functionality.
 
-**Papers:**
+&nbsp; - It provides insights that can be utilized in neural architecture search (NAS) to design optimized and task-specific models.
+
+<br clear="all"/>
+
+**Papers under this project:**
+
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/2d3ecae41ef99351b37beba75a7e5583a9d0092e/inceptionpic.jpg?raw=true" align="left" width="350" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
 
 [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/2d3ecae41ef99351b37beba75a7e5583a9d0092e/inceptionpic.jpg?raw=true" width="700" height="500" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
-
 This paper investigates the variability in layer feature attribution across different branches in the One-Layer Inception neural network architecture. Despite using consistent datasets, model architectures, and hyperparameters, training with different initial parameters leads to differences in neuron roles and contributions. Our focus is on how the choice of hyperparameters affects the variation in the contribution of each branch in the One-Layer Inception model. Using various datasets, we conducted 15 training sessions with the  One-Layer Inception model for each hyperparameter combination. The study reveals that factors like larger batch sizes and lower learning rates lead to a reduced variance in feature attribution across different training sessions. In addition, variation in layer feature attribution is lower for models trained on more complex datasets.
 
-**Future stages:**
-- Employing methods like Probing to assess branch specialization consistency across various neural models more directly. 
-- Extending evaluation beyond one-layer models to include more complex branched architectures, analyzing deeper layers for branch specialization consistency principles.
-- Exploring additional aspects of branch specialization, not limited to consistency evaluation.
+<br clear="all"/>
 
 ## Other Research 📖
-- [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" width="500" height="400" alt="Image Alt Text">](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey)
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" align="left" width="350" height="300" alt="Interpretability Formalizing and Auto-Explaining Framework">
 
-Inspired by Table I in the paper titled "[1]Post-hoc Interpretability for Neural NLP: A Survey," I aimed to systematically categorize interpretability methods into 17 spectrums and document them in a survey. However, midway through this project, I began to question why I couldn't devise a system that automatically classifies these methods into the identified spectrums. By encoding these methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence(the functionality and application) of the deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local like what the previous surveys did, evaluates their complexity, fidelity, etc, and hopefully generates new methods through innovative approaches, such as generative sequence models(like tree RNN). 
+[**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) 
 
-- [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+Inspired by Table I in the paper titled "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to systematically categorize interpretability methods into 17 spectrums and document them in a survey. However, midway through this project, I began to question why I couldn't devise a system that automatically classifies these methods into the identified spectrums. By encoding these methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence(the functionality and application) of the deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local like what the previous surveys did, evaluates their complexity, fidelity, etc, and hopefully generates new methods through innovative approaches, such as generative sequence models(like tree RNN).
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/gptformatedpic.jpg?raw=true" width="700" height="400" alt="Image Alt Text">](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output)
+<br clear="all"/>
 
-These experiments are designed to systematically evaluate the performance of GPT models under various conditions, focusing on their ability to generate formatted output and provide accurate answers. The collected metrics aid in assessing the models' capabilities and limitations in handling diverse scenarios and formatting requirements. More details can be found in the repository. The ideas presented in papers like "[2]Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?", which question the contribution of intrusive labels and instructive instructions, are also tested in these experiments. However, the tested GPT family model performs too well on the chosen dataset to observe a significant difference. The retrievable answers are usually the correct choices from the output space.
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/gptformatedpic.jpg?raw=true" align="left" width="350" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
 
-- **Large ASR Model Evaluation for Under-resourced Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+[**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) 
 
-- **Language Models Evaluation for Neuroatypical Language** (PI: [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html))
+These experiments are designed to systematically evaluate the performance of GPT models under various conditions, focusing on their ability to generate formatted output and provide accurate answers. The collected metrics aid in assessing the models' capabilities and limitations in handling diverse scenarios and formatting requirements.
+
+<br clear="all"/>
 
 ## Publications 📄
-- **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html))
 
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" width="700" height="410" alt="Image Alt Text">]()
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" align="left" width="350" height="300" alt="CS Placement Test System">
+
+**Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html)) 
 
 Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
 
+<br clear="all"/>
+
 ## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
-[<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" width="700" height="450" alt="Image Alt Text">](https://blossoms.ai/about)
+
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" align="left" width="350" height="300" alt="Blossoms ai">
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
-As co-founder and machine learning engineer in the company, I am responsible for everything related to AI or ML in BlossomsAI, including necessary research and back-end coding using Pytorch customized models, hugging face models, LLMs APIs for many different usages expected in our product.
+<br clear="all"/>
 
 ## Travel ✈️
 ACL 2023
@@ -97,4 +102,3 @@ Understanding LSTM Networks, Boston College Experimental Math & ML lab, Nov 2023
 [2] Min, Sewon, et al. "[Rethinking the role of demonstrations: What makes in-context learning work?](https://arxiv.org/abs/2202.12837)." arXiv preprint arXiv:2202.12837 (2022).
 
 [3] Voss, Chelsea, et al. "[Branch Specialization](https://distill.pub/2020/circuits/branch-specialization/)." Distill (2021).
-
