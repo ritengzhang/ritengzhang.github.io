@@ -45,7 +45,7 @@ The Branch Specialization[3] Analysis Project is a project of my own that will h
 
 **Papers under this project:**
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/2d3ecae41ef99351b37beba75a7e5583a9d0092e/inceptionpic.jpg?raw=true" align="left" width="350" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/branch%20attribution.jpg?raw=true" align="left" width="350" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
 
 [**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
@@ -63,7 +63,7 @@ Inspired by [1]"Post-hoc Interpretability for Neural NLP: A Survey," I aimed to 
 
 <br clear="all"/>
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/gptformatedpic.jpg?raw=true" align="left" width="350" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/llm%20few%20shot.jpg?raw=true" align="left" width="350" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
 
 [**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) 
 
@@ -73,7 +73,7 @@ These experiments are designed to systematically evaluate the performance of GPT
 
 ## Publications 📄
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/cs%20replacement%20pic.jpg?raw=true" align="left" width="350" height="300" alt="CS Placement Test System">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/cs%20palcement%20llms.jpg?raw=true" align="left" width="350" height="300" alt="CS Placement Test System">
 
 **Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html)) 
 
@@ -83,7 +83,7 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 ## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/main/blossompic.jpg?raw=true" align="left" width="350" height="300" alt="Blossoms ai">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/K-12%20Education.jpg?raw=true" align="left" width="350" height="300" alt="Blossoms ai">
 
 At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
