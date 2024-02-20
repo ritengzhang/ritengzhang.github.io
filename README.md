@@ -33,7 +33,7 @@
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" align="left" width="300" height="300" alt="Branch Specialization Analysis">
 
-The Branch Specialization Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency and exploring the potential of branch specialization in combining the functional and architectural modularity of deep learning models. Understanding and analyzing branch specialization is crucial for several reasons:
+The Branch Specialization[3] Analysis Project is a project of my own that will have several stages. Currently, it's in the very early stages with a focus on providing baseline and evaluation metrics for branch specialization consistency and exploring the potential of branch specialization in combining the functional and architectural modularity of deep learning models. Understanding and analyzing branch specialization is crucial for several reasons:
 
 &nbsp; - It aids in creating more interpretable models, as it becomes clearer what roles different parts of the network are playing.
 
@@ -59,7 +59,7 @@ This paper investigates the variability in layer feature attribution across diff
 
 [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) 
 
-Inspired by Table I in the paper titled "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to systematically categorize interpretability methods into 17 spectrums and document them in a survey. However, midway through this project, I began to question why I couldn't devise a system that automatically classifies these methods into the identified spectrums. By encoding these methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence(the functionality and application) of the deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local like what the previous surveys did, evaluates their complexity, fidelity, etc, and hopefully generates new methods through innovative approaches, such as generative sequence models(like tree RNN).
+Inspired by [1]"Post-hoc Interpretability for Neural NLP: A Survey," I aimed to systematically categorize interpretability methods into 17 spectrums and document them in a survey. However, midway through this project, I began to question why I couldn't devise a system that automatically classifies these methods into the identified spectrums. By encoding these methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence(the functionality and application) of the deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local like what the previous surveys did, evaluates their complexity, fidelity, etc, and hopefully generates new methods through innovative approaches, such as generative sequence models(like tree RNN).
 
 <br clear="all"/>
 
