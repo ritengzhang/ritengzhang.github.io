@@ -19,7 +19,7 @@ I am an undergraduate student at Boston College, passionate about researching de
 
 - 📄 Here's my [cv](https://drive.google.com/file/d/1szDS7cRNROecVDED8voWUv8ib-l-CjHk/view?usp=drive_link).
 
-- ⚡ Fun fact: I love history and philosophy, and regularly write about those on [social media](https://mp.weixin.qq.com/s?__biz=MzUxMzA5NTYwOA==&mid=2247483679&idx=1&sn=ce7cbf5a52b5e0b824578bdd6b1d764b&chksm=f95b23c8ce2caadeeb78f56216e3dcd88924e9793e035447cca656f0c9d9f2c163dd4e93e39d#rd) (modern Chinese history, Epistemology, and Existentialism in particular).
+- ⚡ Fun fact: I love history and philosophy (Modern Chinese, Ancient Roman history, Epistemology, and Existentialism in particular).
 
 ## Research Interest ✏️
 - Interpretability of black box model and its applications (trustworthy, robust, fair AI)
