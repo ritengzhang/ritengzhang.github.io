@@ -18,7 +18,7 @@
 
 - 📫 Contact Information: **zhangcoj@bc.edu**
 
-- 📄 Here's my [cv](https://drive.google.com/file/d/1ZhcYk64rxka0ipnr7U8madn94h69Jq4M/view?usp=drive_link).
+- 📄 Here's my [cv](https://drive.google.com/file/d/1vhsm7Ou74eloiSnnKW-UCA4m_fgeQrR1/view?usp=drive_link).
 
 - ⚡ Fun fact: I love history and philosophy (Modern Chinese, Ancient Roman history, Epistemology, and Existentialism in particular).
 
