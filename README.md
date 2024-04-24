@@ -47,7 +47,7 @@ The Branch Specialization[3] Analysis Project is a project of my own that will h
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/branch%20attribution.jpg?raw=true" align="left" width="300" height="300" alt="Analyzing Variations in Layer-wise Feature Attributions">
 
-[**Analyzing Variations in Layer-wise Feature Attributions of Inception Model**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
+[**Analyzing Variations in Branch Attribution in Non-monolithic Models**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants) (advised by [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html))
 
 This paper investigates the variability in layer feature attribution across different branches in various branched neural networks (monolithic design vs. inception-like). Despite using consistent datasets, model architectures, and hyperparameters, training with different initial parameters leads to differences in neuron roles and contributions. Our focus is on determining whether the monolithic design of branched models will have higher variation in its branch attribution than that of inception-like models or non-monolithic branched neural networks.
 
@@ -85,7 +85,7 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/K-12%20Education.jpg?raw=true" align="left" width="300" height="300" alt="Blossoms ai">
 
-At BlossomsAI, we are on a mission to transform education by leveraging the power of artificial intelligence. We firmly believe that a personalized, individualized, and customized approach to education can unlock the full potential of every child. Our goal is to equip teachers with the tools and resources necessary to save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
+As CAIO and co-founder of BlossomsAI, I am deeply committed to transforming education through the power of artificial intelligence. At BlossomsAI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
 
 <br clear="all"/>
 
