@@ -7,7 +7,7 @@
 ## About Me
 
 - 🔭 Currently working on my thesis and independent research project (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
-    - [**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-Formalizing-and-Auto-Explaining-Framework)
+    - [**Interpretability Formalizing and Automating Framework**](https://github.com/ritengzhang/Interpretability-Formalizing-and-Auto-Explaining-Framework)
     - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
 
 - 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
@@ -57,7 +57,7 @@ This paper investigates the variability in layer feature attribution across diff
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" align="left" width="300" height="300" alt="Interpretability Formalizing and Auto-Explaining Framework">
 
-[**Interpretability Formalizing and Auto-Explaining Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) 
+[**Interpretability Formalizing and Automating Framework**](https://github.com/ritengzhang/Interpretability-of-neural-language-model-A-survey) 
 
 Inspired by "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to encode interpretability methods into a structured, formal framework using Python classes, this new project seeks to establish a unified representation that automatically captures the essence (functionality and application) of deep learning interpretability methods across various dimensions. It categorizes interpretability methods based on characteristics such as global vs. local, similar to what previous surveys have done, and evaluates their complexity, fidelity, etc. The project also hopes to generate new methods through innovative approaches, such as generative sequence models (like tree RNNs).
 
