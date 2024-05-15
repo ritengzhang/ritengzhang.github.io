@@ -83,7 +83,7 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 ## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/K-12%20Education.jpg?raw=true" align="left" width="300" height="300" alt="Blossoms ai">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/616bb29d32e007ce48d78badf21570ad86aa86e7/image.png" align="left" width="400" height="150" alt="Blossoms ai">
 
 As CAIO and co-founder of BlossomsAI, I am deeply committed to transforming education through the power of artificial intelligence. At BlossomsAI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
 
