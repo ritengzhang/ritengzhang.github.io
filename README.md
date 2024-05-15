@@ -87,7 +87,15 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 As CAIO and co-founder of BlossomsAI, I am deeply committed to transforming education through the power of artificial intelligence. At BlossomsAI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
 
+My roles at BlossomsAI include:
+- In charge of developing and testing AI products in education technology
+- Designing and implementing AI workflows
+- Ensuring AI-related backend workflows are efficient and safe
+- Co-founding and making strategic decisions related to artificial intelligence
+- Overseeing the integration of customized models, LLMs APIs, and educational AI solutions
+
 <br clear="all"/>
+
 
 
 ## Awards & Achievements 🏆
