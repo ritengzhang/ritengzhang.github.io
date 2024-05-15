@@ -92,7 +92,7 @@ As CAIO and co-founder of BlossomsAI, I am deeply committed to transforming educ
 
 ## Awards & Achievements 🏆
 
-- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
+- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
 
 - **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
 
