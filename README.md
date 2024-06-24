@@ -18,13 +18,20 @@ I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to 
 - ⚡ Fun fact: I have a strong interest in history and philosophy, particularly Chinese history, Ancient Roman history, Epistemology, and Existentialism.
 
 ## Research Interest ✏️
-
 - Mechanistic Interpretability
 - Deep Learning Model Modularity
 - Interpretability in LLM or advanced Models (Emergent Ability/Behavior)
 - Formalization and Automation of Interpretable ML Systems
 - Neural Architecture Search
 - Transparent, Trustworthy, Robust AI; ML Safety
+
+## Awards & Achievements 🏆
+
+- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
+
+- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
+
+- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
 
 ## Startup - [Blossoms AI](https://blossoms.ai) 🤖➕🎓
 
@@ -39,14 +46,6 @@ My roles at Blossoms AI include:
 
 <br clear="all"/>
 
-
-## Awards & Achievements 🏆
-
-- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
-
-- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
-
-- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
 ## Branch Specialization Analysis Project 🌳
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" align="left" width="300" height="300" alt="Branch Specialization Analysis">
