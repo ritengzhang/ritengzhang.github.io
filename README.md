@@ -8,7 +8,7 @@ I graduated from Boston College with majors in Mathematics and Computer Science,
 
 Currently, while continuing my research at Boston College as a research assistant(working with Professor Yuan Yuan), focusing on fields like Neural Architecture Search (NAS) and vision-language models to broaden my understanding of AI, I also serve as the Chief AI Officer (CAIO) at Blossoms AI. Blossoms AI is an educational technology startup I co-founded to create new norms in education through AI.
 
-I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to further my research and academic pursuits. Please feel free to reach out to discuss potential opportunities.
+I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to further my research and academic pursuits. Please feel free to reach out.
 <br clear="all"/>
 
 - 📫 Contact Information: **ritengzhang77@gmail.com**
