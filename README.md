@@ -25,19 +25,11 @@ I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to 
 - Neural Architecture Search
 - Transparent, Trustworthy, Robust AI; ML Safety
 
-## Awards & Achievements 🏆
-
-- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
-
-- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
-
-- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
-
 ## Startup - [Blossoms AI](https://blossoms.ai) 🤖➕🎓
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
 
-As CAIO and co-founder of Blossoms AI, I am deeply committed to transforming education through the power of artificial intelligence. Blossoms AI, an educational technology startup I co-founded, aims to create new norms in education through AI. We believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our mission is to address the damage AI has caused to the current education system and to build a new system using AI and other tools. Our application is set to be implemented in several high schools and potentially colleges next semester. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
+As CAIO and co-founder of Blossoms AI, I am dedicated to transforming education through artificial intelligence. Blossoms AI, an educational technology startup, aims to create new norms in education by providing personalized and customized learning experiences. Our mission is to address the shortcomings of the current education system and build a new one using AI and other innovative tools. Our application is set to be implemented in several high schools and potentially colleges next semester, helping teachers save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
 My roles at Blossoms AI include:
 - Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
@@ -80,10 +72,13 @@ Inspired by "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to enc
 
 <br clear="all"/>
 
+## Awards & Achievements 🏆
 
+- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
 
+- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
 
-
+- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
 ## Travel ✈️
 ACL 2023
 
