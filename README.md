@@ -80,7 +80,6 @@ Inspired by "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to enc
 
 <br clear="all"/>
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/llm%20few%20shot.jpg?raw=true" align="left" width="300" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
 
 
 
