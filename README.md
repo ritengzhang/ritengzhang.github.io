@@ -26,6 +26,27 @@ I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to 
 - Neural Architecture Search
 - Transparent, Trustworthy, Robust AI; ML Safety
 
+## Startup - [Blossoms AI](https://blossoms.ai) 🤖➕🎓
+
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
+
+As CAIO and co-founder of Blossoms AI, I am deeply committed to transforming education through the power of artificial intelligence. Blossoms AI, an educational technology startup I co-founded, aims to create new norms in education through AI. We believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our mission is to address the damage AI has caused to the current education system and to build a new system using AI and other tools. Our application is set to be implemented in several high schools and potentially colleges next semester. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
+
+My roles at Blossoms AI include:
+- Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
+- Developing tools aimed at reshaping higher education norms, such as Auto-Oral Defense, Mastery Level System, ThinkAid, and Adaptive Extra-Credit Assignment System.
+- Creating a tool that automatically performs data analysis and generates insightful reports or engages in user chats. This tool can be utilized by students, teachers, and school districts with different levels of authorization and is applicable to databases in any field.
+
+<br clear="all"/>
+
+
+## Awards & Achievements 🏆
+
+- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
+
+- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
+
+- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
 ## Branch Specialization Analysis Project 🌳
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/e4a2a3af80d99f621597987b2ea102a648469d71/branch.png?raw=true" align="left" width="300" height="300" alt="Branch Specialization Analysis">
@@ -50,7 +71,7 @@ This paper investigates the variability in layer feature attribution across diff
 
 <br clear="all"/>
 
-## Other Research 📖
+## Other Notable Research 📖
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/95fd2bb4a673e4454ec96db79923a9f203338d7e/method%20encoding%20pic.jpg?raw=true" align="left" width="300" height="300" alt="Interpretability Formalizing and Auto-Explaining Framework">
 
@@ -62,49 +83,8 @@ Inspired by "Post-hoc Interpretability for Neural NLP: A Survey," I aimed to enc
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/llm%20few%20shot.jpg?raw=true" align="left" width="300" height="300" alt="Evaluation of LLM Zero to Few-Shot Ability">
 
-[**Evaluation of LLM Zero to Few-Shot Ability when Expecting Formatted Output**](https://github.com/ritengzhang/Evaluation-of-LLM-Zero-to-Few-Shot-Ability-when-Expecting-Formatted-Output) 
-
-These experiments are designed to systematically evaluate the performance of GPT models under various conditions, focusing on their ability to generate formatted output and provide accurate answers. The collected metrics aid in assessing the models' capabilities and limitations in handling diverse scenarios and formatting requirements.
-
-<br clear="all"/>
-
-## Publications 📄
-
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/7bbe45562d857a1c6b3b73c32e9fb1cbcacf4205/pic/cs%20palcement%20llms.jpg?raw=true" align="left" width="300" height="300" alt="CS Placement Test System">
-
-**Leveraging LLMs and MLPs in Designing a Computer Science Placement Test System** (In Proceedings of CSCI 2023, Coauthored with Yi LI and Angela Qu, advised by [Professor Maira Samary](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/maira-samary.html)) 
-
-Different types of models, including LLMs, are utilized to create an automated process for conducting a Computer Science (CS) placement test in a step-by-step manner. The framework's limitations and potential are discussed.
-
-<br clear="all"/>
-
-## Startup - [Blossoms AI](https://blossoms.ai) 🤖➕🎓
-
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
-
-As CAIO and co-founder of Blossoms AI, I am deeply committed to transforming education through the power of artificial intelligence. At Blossoms AI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
-
-My roles at Blossoms AI include:
-- Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
-- Designing and implementing AI workflows and ensuring AI-related backend workflows are efficient and secure.
-- Co-founding and making strategic decisions related to artificial intelligence.
-- Developing tools aimed at reshaping higher education norms, such as Auto-Oral Defense, Mastery Level System, ThinkAid, and Adaptive Extra-Credit Assignment System.
-- Creating a tool that automatically performs data analysis and generates insightful reports or engages in user chats. This tool can be utilized by students, teachers, and school districts with different levels of authorization and is applicable to databases in any field.
-
-Note: Blossoms AI, an educational technology startup I co-founded, aims to create new norms in education in the age of AI. Our mission is to address the damage AI has caused to the current education system and to build a new system using AI and other tools. Our application is set to be implemented in several high schools and potentially colleges next semester.
-
-<br clear="all"/>
 
 
-
-
-## Awards & Achievements 🏆
-
-- **John McCarthy, S.J., Award for Natural Science** (Boston College, May 2024): Awarded annually to one student for the best senior thesis (mine is Interpretability Formalizing and Automating Framework) in Natural Science, judged by dean's reviewers and administered by the Morrissey College of Arts and Sciences Dean’s Office.
-
-- **Neuhauser Award** (Boston College, May 2024): Given annually to 1-2 students in the Computer Science department at Boston College who achieve the most recognition from all CS faculty.
-
-- **Scholar of the College** (Boston College, May 2024): Awarded to exceptional students who have excelled academically and completed substantial, high-quality independent work under faculty supervision during their senior year.
 
 ## Travel ✈️
 ACL 2023
