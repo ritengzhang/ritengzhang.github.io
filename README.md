@@ -1,33 +1,30 @@
 # Riteng (Gavin) Zhang
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/11348b56d16f33c458205b8bb4a59f97f87b4524/1.jpeg?raw=true" align="left" width="170" height="200" alt="Riteng (Gavin) Zhang"> I am an undergraduate student at Boston College, passionate about researching deep neural network interpretability and building interpretable AI systems. I am majoring in Mathematics and Computer Science, complemented by a minor in Philosophy.
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/11348b56d16f33c458205b8bb4a59f97f87b4524/1.jpeg?raw=true" align="left" width="200" height="230" alt="Riteng (Gavin) Zhang"> 
 
+
+
+I graduated from Boston College with majors in Mathematics and Computer Science, and a minor in Philosophy. I am passionate about researching deep neural network interpretability and developing interpretable and modular AI systems. 
+
+Currently, while continuing my research at Boston College as a research assistant(working with Professor Yuan Yuan), focusing on fields like Neural Architecture Search (NAS) and vision-language models to broaden my understanding of AI, I also serve as the Chief AI Officer (CAIO) at Blossoms AI. Blossoms AI is an educational technology startup I co-founded to create new norms in education through AI.
+
+I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to further my research and academic pursuits. Please feel free to reach out to discuss potential opportunities.
 <br clear="all"/>
 
-## About Me
+- 📫 Contact Information: **ritengzhang77@gmail.com**
 
-- 🔭 Currently working on my thesis and independent research project (advised by [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) and [Professor Sergio Alvarez](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/sergio-alvarez.html)):
-    - [**Interpretability Formalizing and Automating Framework**](https://github.com/ritengzhang/Interpretability-Formalizing-and-Auto-Explaining-Framework)
-    - [**Branch Specialization Analysis**](https://github.com/ritengzhang/Interpretability-of-Inception-and-its-variants)
+- 📄 Here's my [cv](https://drive.google.com/file/d/14NyHuJwTqKXRyQWuyIGIdZhOsJHIB-us/view?usp=drive_link).
 
-- 🔈 Research Assistant for [Professor Emily Prud'hommeaux](https://www.bc.edu/bc-web/schools/mcas/departments/computer-science/people/faculty-directory/emily-prudhommeaux.html) on topics including ASR for under-resourced language, Language Models Evaluation for Neuroatypical Language, etc.
-  
-- 💬 Teaching assistant for **CSCI3399 Vision and Learning, CSCI3345 Machine Learning** in Boston College
-
-- 🌻 Co-founder and machine learning engineer of [Blossoms ai](https://blossoms.ai).
-
-- 📫 Contact Information: **zhangcoj@bc.edu**
-
-- 📄 Here's my [cv](https://drive.google.com/file/d/1VewTSBcugWXg4MtbWEE_Xbm5PfEAokhD/view?usp=drive_link).
-
-- ⚡ Fun fact: I love history and philosophy (Modern Chinese, Ancient Roman history, Epistemology, and Existentialism in particular).
+- ⚡ Fun fact: I have a strong interest in history and philosophy, particularly Chinese history, Ancient Roman history, Epistemology, and Existentialism.
 
 ## Research Interest ✏️
 
-- Interpretability of black box model and its applications (trustworthy, robust, fair AI)
-- Deep learning model Modularity
+- Mechanistic Interpretability
+- Deep Learning Model Modularity
+- Interpretability in LLM or advanced Models (Emergent Ability/Behavior)
+- Formalization and Automation of Interpretable ML Systems
 - Neural Architecture Search
-- Interpretability in the Context of Large Language Models: Interpretation and Prediction of LLM Capabilities and Emergent Abilities
+- Transparent, Trustworthy, Robust AI; ML Safety
 
 ## Branch Specialization Analysis Project 🌳
 
