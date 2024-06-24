@@ -29,7 +29,7 @@ I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to 
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
 
-As CAIO and co-founder of Blossoms AI, I am dedicated to transforming education through artificial intelligence. Blossoms AI, an educational technology startup, aims to create new norms in education by providing personalized and customized learning experiences. Our mission is to address the shortcomings of the current education system and build a new one using AI and other innovative tools. Our application is set to be implemented in several high schools and potentially colleges next semester, helping teachers save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
+As CAIO and co-founder of Blossoms AI, I am dedicated to transforming education through artificial intelligence. Our mission is to address the shortcomings of the current education system, especially in the age of AI, and to build a new one using AI and other innovative tools. Our application is set to be implemented in several high schools and potentially colleges next semester, helping teachers save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
 
 My roles at Blossoms AI include:
 - Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
