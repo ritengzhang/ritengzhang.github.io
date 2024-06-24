@@ -12,7 +12,7 @@ I am pursuing a PhD in the AI/ML field during the 2024/2025 application term to 
 <br clear="all"/>
 
 ## 📫 Contact Information
-Email: **ritengzhang77@gmail.com**
+**ritengzhang77@gmail.com**
 
 ## 📄 [My CV](https://drive.google.com/file/d/14NyHuJwTqKXRyQWuyIGIdZhOsJHIB-us/view?usp=drive_link)
 
