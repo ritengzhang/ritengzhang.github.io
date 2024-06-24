@@ -78,20 +78,23 @@ Different types of models, including LLMs, are utilized to create an automated p
 
 <br clear="all"/>
 
-## Startup - [Blossoms ai](https://blossoms.ai) 🤖➕🎓
+## Startup - [Blossoms AI](https://blossoms.ai) 🤖➕🎓
 
-<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms ai">
+<img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
 
-As CAIO and co-founder of BlossomsAI, I am deeply committed to transforming education through the power of artificial intelligence. At BlossomsAI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
+As CAIO and co-founder of Blossoms AI, I am deeply committed to transforming education through the power of artificial intelligence. At Blossoms AI, we believe that a personalized, individualized, and customized approach is key to unlocking every student's full potential. Our goal is to provide teachers with the tools and resources they need to save time, increase efficiency, and focus on nurturing the unique abilities and interests of each student.
 
-My roles at BlossomsAI include:
-- In charge of developing and testing AI products in education technology
-- Designing and implementing AI workflows
-- Ensuring AI-related backend workflows are efficient and safe
-- Co-founding and making strategic decisions related to artificial intelligence
-- Overseeing the integration of customized models, LLMs APIs, and educational AI solutions
+My roles at Blossoms AI include:
+- Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
+- Designing and implementing AI workflows and ensuring AI-related backend workflows are efficient and secure.
+- Co-founding and making strategic decisions related to artificial intelligence.
+- Developing tools aimed at reshaping higher education norms, such as Auto-Oral Defense, Mastery Level System, ThinkAid, and Adaptive Extra-Credit Assignment System.
+- Creating a tool that automatically performs data analysis and generates insightful reports or engages in user chats. This tool can be utilized by students, teachers, and school districts with different levels of authorization and is applicable to databases in any field.
+
+Note: Blossoms AI, an educational technology startup I co-founded, aims to create new norms in education in the age of AI. Our mission is to address the damage AI has caused to the current education system and to build a new system using AI and other tools. Our application is set to be implemented in several high schools and potentially colleges next semester.
 
 <br clear="all"/>
+
 
 
 
