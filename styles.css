@@ -1,92 +1,118 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #f8f9fa;
+    color: #343a40;
 }
 
 /* Container */
 .container {
-    width: 80%;
+    width: 90%;
+    max-width: 1200px;
     margin: auto;
-    overflow: hidden;
+    padding: 20px;
 }
 
 /* Header Styles */
 h1, h2 {
-    color: #0056b3;
+    font-family: 'Montserrat', sans-serif;
+    color: #007bff;
 }
 
 h1 {
-    margin-top: 20px;
-    font-size: 2.5em;
+    font-size: 3em;
     text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 1.8em;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    font-size: 2em;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
 }
 
 /* Paragraph Styles */
 p {
     margin: 15px 0;
     font-size: 1.1em;
+    line-height: 1.8;
 }
 
 /* List Styles */
 ul {
-    list-style-type: disc;
-    margin: 10px 0;
-    padding-left: 20px;
+    list-style-type: none;
+    margin: 20px 0;
+    padding-left: 0;
 }
 
 ul li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    padding-left: 25px;
+    position: relative;
+}
+
+ul li::before {
+    content: '➤';
+    position: absolute;
+    left: 0;
+    color: #007bff;
 }
 
 /* Link Styles */
 a {
-    color: #0056b3;
+    color: #007bff;
     text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 a:hover {
+    color: #0056b3;
     text-decoration: underline;
 }
 
 /* Image Styles */
 img {
-    margin-right: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
 }
 
-/* Clear floats */
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
+img:hover {
+    transform: scale(1.05);
 }
 
-/* Additional styling for specific elements */
-.contact-info {
-    font-weight: bold;
-    font-size: 1.2em;
+/* Section Styling */
+.section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
-.cv-link {
-    font-weight: bold;
-    font-size: 1.2em;
+/* Button Styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 
-.sub-section img {
-    margin-top: 20px;
-    margin-bottom: 20px;
+.button:hover {
+    background-color: #0056b3;
 }
 
 /* Responsive Styles */
@@ -94,19 +120,81 @@ img {
     .container {
         width: 95%;
     }
-
-    img {
-        width: 100%;
-        height: auto;
-        margin: 0 auto;
-        display: block;
-    }
-
+    
     h1 {
-        font-size: 2em;
+        font-size: 2.5em;
     }
-
+    
     h2 {
-        font-size: 1.5em;
+        font-size: 1.8em;
     }
+}
+
+/* Cool additional elements */
+
+/* Gradient background for header */
+header {
+    background: linear-gradient(45deg, #007bff, #00ff88);
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Card layout for projects */
+.project-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Animated skill bars */
+.skill-bar {
+    width: 100%;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.skill-progress {
+    width: 0;
+    height: 20px;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: width 1s ease-in-out;
+}
+
+/* Tooltip */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted #007bff;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
 }
