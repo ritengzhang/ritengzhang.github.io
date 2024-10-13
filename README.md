@@ -35,12 +35,14 @@ This spirit of broad learning before specialization led me, after some explorati
 
 <img src="https://github.com/ritengzhang/ritengzhang.github.io/blob/1a01755368f74b77d7cccdb9f7ed3c48d9a6199f/image.png?raw=true" align="left" width="400" height="150" alt="Blossoms AI">
 
-As CAIO and co-founder of Blossoms AI, I am dedicated to transforming education through artificial intelligence. Our mission is to address the shortcomings of the current education system, especially in the age of AI, and to build a new one using AI and other innovative tools. Our application is set to be implemented in several high schools and potentially colleges next semester, helping teachers save time, increase efficiency, and focus on nurturing each student's unique abilities and interests.
+As CAIO and Co-founder of Blossoms AI, I am committed to revolutionizing education through artificial intelligence. Our mission is to overcome the limitations of the current education system, particularly in the context of the AI era, by leveraging innovative tools and AI technologies. Our platform is implemented in several high schools and is set to expand to colleges in the coming semester (currently under beta testing), providing educators with the tools to enhance teaching efficiency, and focus on nurturing each student's unique abilities and interests.
 
 My roles at Blossoms AI include:
-- Managing an AI engineering team of 6-7 people responsible for designing, developing, testing, and monitoring AI products in education technology.
-- Developing tools aimed at reshaping higher education norms, such as Auto-Oral Defense, Mastery Level System, ThinkAid, and Adaptive Extra-Credit Assignment System.
-- Creating a tool that automatically performs data analysis and generates insightful reports or engages in user chats. This tool can be utilized by students, teachers, and school districts with different levels of authorization and is applicable to databases in any field.
+- Leading a team of 7 AI engineers (undergrads/grad students across the U.S.) to develop, test, and deploy AI products in education technology.
+- Developing an Intelligent Learning Management System (LIMS) with features such as Auto-Oral Defense, Unlimited Review Quiz System, Masterlytics System, ThinkAid, and Adaptive Extra-Credit Assignment System.
+- Creating an AI-driven tool for automated data analysis and reporting, which is used by students, instructors, school administrators, and school districts, with personalized access levels based on user roles.
+- Ensuring our products are deployed in several high schools, with beta testing underway for upcoming college deployments, aimed at reducing teacher workloads and improving student learning outcomes.
+
 
 <br clear="all"/>
 
