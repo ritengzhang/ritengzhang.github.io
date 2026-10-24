@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Riteng Zhang (Gavin Zhang) — Purdue ECE PhD Student</title>
+<meta name="description" content="Riteng Zhang, also known as Gavin Zhang, is a Purdue ECE PhD student researching LLM interpretability."/>
+<meta name="robots" content="index, follow"/>
+<meta name="google-site-verification" content="b6ixKwjdwI7HEByEQMpGnvLqZ-V-D5NJoKvL6Qh4agc"/>
+<link rel="canonical" href="https://ritengzhang.github.io/"/>
+<link rel="me" href="https://github.com/ritengzhang"/>
+<link rel="me" href="https://www.linkedin.com/in/riteng-zhang-3149aa281/"/>
+<meta property="og:title" content="Riteng Zhang (Gavin Zhang) — Purdue ECE PhD Student"/>
+<meta property="og:description" content="Purdue ECE PhD student researching LLM interpretability."/>
+<meta property="og:type" content="profile"/>
+<meta property="og:url" content="https://ritengzhang.github.io/"/>
+<meta property="og:image" content="https://ritengzhang.github.io/assets/profile.jpeg"/>
+<meta property="og:image:alt" content="Portrait of Riteng Zhang, also known as Gavin Zhang"/>
+<meta property="profile:first_name" content="Riteng"/>
+<meta property="profile:last_name" content="Zhang"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Riteng Zhang (Gavin Zhang) — Purdue ECE PhD Student"/>
+<meta name="twitter:description" content="Purdue ECE PhD student researching LLM interpretability."/>
+<meta name="twitter:image" content="https://ritengzhang.github.io/assets/profile.jpeg"/>
+<meta name="twitter:image:alt" content="Portrait of Riteng Zhang, also known as Gavin Zhang"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://ritengzhang.github.io/#profile-page",
+      "url": "https://ritengzhang.github.io/",
+      "name": "Riteng Zhang (Gavin Zhang) — Purdue ECE PhD Student",
+      "description": "The research and product portfolio of Riteng Zhang, also known as Gavin Zhang.",
+      "dateModified": "2026-09-30",
+      "mainEntity": {"@id": "https://ritengzhang.github.io/#riteng-zhang"}
+    },
+    {
+      "@type": "Person",
+      "@id": "https://ritengzhang.github.io/#riteng-zhang",
+      "name": "Riteng Zhang",
+      "alternateName": ["Gavin Zhang", "Riteng Zhang (Gavin)"],
+      "givenName": "Riteng",
+      "familyName": "Zhang",
+      "url": "https://ritengzhang.github.io/",
+      "image": "https://ritengzhang.github.io/assets/profile.jpeg",
+      "email": "zhan5982@purdue.edu",
+      "jobTitle": "PhD Student and AI Researcher",
+      "affiliation": [
+        {"@type": "CollegeOrUniversity", "name": "Purdue University", "url": "https://www.purdue.edu/"}
+      ],
+      "alumniOf": {"@type": "CollegeOrUniversity", "name": "Boston College", "url": "https://www.bc.edu/"},
+      "sameAs": [
+        "https://github.com/ritengzhang",
+        "https://scholar.google.com/citations?user=pnb2RBsAAAAJ",
+        "https://orcid.org/0009-0000-0306-8973",
+        "https://www.linkedin.com/in/riteng-zhang-3149aa281/"
+      ],
+      "knowsAbout": ["Mechanistic interpretability", "LLM interpretability", "AI safety", "Modular neural networks"]
+    }
+  ]
+}
+</script>
+<style>
+    /* Production V2: academic single-page navigation with public-safe research
+       and product evidence. */
+    :root {
+      --text: #494e52;
+      --heading: #313537;
+      --muted: #6b7379;
+      --link: #24758f;
+      --line: #edf0f2;
+      --line-dark: #d6d6d6;
+      --bg: #fff;
+      --soft: #f7f8f9;
+      --soft-blue: #eef8fb;
+      --soft-gold: #fff8db;
+      --accent2: #7856ff;
+      --max: 1180px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.58;
+    }
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .masthead { border-bottom: 1px solid var(--line); background: rgba(255,255,255,.96); position: sticky; top: 0; z-index: 10; backdrop-filter: blur(8px); }
+    .masthead-inner {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .site-title { font-size: 19px; font-weight: 800; color: var(--heading); letter-spacing: -0.02em; }
+    nav { display: flex; flex-wrap: wrap; gap: 20px; font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: .035em; }
+    nav a { color: #5f666c; }
+    .layout {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 36px 24px 70px;
+      display: grid;
+      grid-template-columns: 255px minmax(0, 1fr);
+      gap: 54px;
+    }
+    aside { font-size: 15px; }
+    .avatar {
+      width: 190px;
+      height: 190px;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+      margin-bottom: 18px;
+      border: 1px solid var(--line-dark);
+    }
+    .author-name { color: var(--heading); font-size: 24px; line-height: 1.08; margin: 0 0 8px; font-weight: 800; }
+    .author-title { margin: 0 0 16px; color: var(--muted); }
+    .author-links { list-style: none; margin: 18px 0 0; padding: 0; display: grid; gap: 12px; }
+    .author-links li { color: var(--muted); display: grid; gap: 1px; }
+    .sidebar-label { color: #606a70; font-size: 10px; font-weight: 850; letter-spacing: .07em; text-transform: uppercase; }
+    .email-display { color: var(--heading); font-weight: 750; overflow-wrap: anywhere; }
+    .contact-display { margin: 4px 0 0; color: var(--muted); }
+    .sidebar-note { border-top: 1px solid var(--line); margin-top: 22px; padding-top: 16px; color: var(--muted); font-size: 14px; }
+    .sidebar-note strong { display: block; color: #606a70; font-size: 10px; letter-spacing: .07em; text-transform: uppercase; margin-bottom: 7px; }
+    .sidebar-note span { display: block; margin-top: 5px; }
+    main { min-width: 0; }
+    section { scroll-margin-top: 84px; }
+    h1, h2, h3 { color: var(--heading); line-height: 1.2; }
+    h1 { font-size: 31px; margin: 0 0 18px; letter-spacing: -.02em; }
+    h2 { font-size: 24px; margin: 42px 0 15px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+    #about > h2 { font-size: 31px; margin: 0 0 18px; padding: 0; border: 0; letter-spacing: -.02em; }
+    h3 { font-size: 18px; margin: 0 0 6px; }
+    p { margin: 0 0 15px; }
+    ul { margin-top: 8px; }
+    .notice {
+      background: var(--soft-gold);
+      border: 1px solid #e7cf74;
+      border-radius: 6px;
+      padding: 12px 14px;
+      color: #665700;
+      margin-bottom: 22px;
+      font-size: 14px;
+    }
+    .intro { font-size: 18px; color: #3f4448; }
+    .button-row { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0 4px; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      border-radius: 5px; padding: 8px 12px; background: var(--link); color: white;
+      font-weight: 800; font-size: 14px;
+    }
+    .btn.secondary { background: #6f777d; }
+    .btn.ghost { background: white; color: var(--heading); border: 1px solid var(--line-dark); }
+    .btn:hover { text-decoration: none; filter: brightness(.96); }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
+    .chip { border: 1px solid var(--line-dark); background: var(--soft); border-radius: 999px; padding: 4px 10px; font-size: 13px; color: #555; font-weight: 650; }
+    .two-col { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+    .two-col > * { min-width: 0; }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 16px;
+      box-shadow: 0 8px 22px rgba(49,53,55,.035);
+    }
+    .card.highlight { background: linear-gradient(180deg, #ffffff 0%, var(--soft-blue) 100%); border-color: #d5edf4; }
+    .card.wide-card { grid-column: 1 / -1; }
+    .technical-note { margin-top: 12px; padding: 11px 13px; border-left: 3px solid var(--accent2); background: rgba(255,255,255,.78); color: #4d565c; font-size: 13px; line-height: 1.45; }
+    .eyebrow { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .06em; font-weight: 800; margin-bottom: 7px; }
+    .compact-list { padding-left: 20px; margin: 0 0 12px; }
+    .compact-list li { margin: 5px 0; }
+    .project-list { display: grid; gap: 18px; }
+    .project {
+      display: grid; grid-template-columns: minmax(260px, 0.75fr) minmax(0, 1.4fr); gap: 22px;
+      padding-bottom: 18px; border-bottom: 1px solid var(--line);
+    }
+    .thumb {
+      width: 118px; min-height: 88px; background: linear-gradient(135deg, #e8f4f8, #f7f8f9);
+      border: 1px solid var(--line-dark); border-radius: 7px; display: flex;
+      align-items: center; justify-content: center; color: var(--muted);
+      font-size: 12px; text-align: center; padding: 8px; font-weight: 800;
+    }
+    .thumb.purple { background: linear-gradient(135deg, #f0ecff, #fbfaff); color: #5b45b6; }
+
+    .demo-img { width: 100%; aspect-ratio: 16 / 9; object-fit: contain; border-radius: 8px; border: 1px solid var(--line-dark); background: #fff; display: block; cursor: zoom-in; }
+    .project-media { display: grid; gap: 7px; align-content: start; }
+    .caption { color: var(--muted); font-size: 12px; line-height: 1.35; text-align: center; }
+    main img { cursor: zoom-in; }
+
+    .screenshot-strip { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin: 14px 0; }
+    .screenshot-strip figure { margin: 0; }
+    .screenshot-strip figure:first-child { grid-column: 1 / -1; }
+    .compact-filmstrip { display: flex; gap: 10px; margin: 12px 0 0; overflow-x: auto; padding: 2px 2px 8px; scroll-snap-type: x proximity; }
+    .compact-filmstrip figure { flex: 0 0 225px; margin: 0; scroll-snap-align: start; }
+    .compact-filmstrip img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: top; border: 1px solid var(--line-dark); border-radius: 7px; background: #fff; display: block; }
+    .compact-filmstrip figcaption { color: var(--muted); font-size: 11px; line-height: 1.3; margin-top: 5px; }
+    .screenshot-strip figure:nth-child(2):last-child { grid-column: 1 / -1; }
+    .screenshot-strip img { width: 100%; aspect-ratio: 16 / 9; object-fit: contain; object-position: top center; border-radius: 8px; border: 1px solid var(--line-dark); background: #fff; display: block; cursor: zoom-in; }
+    .screenshot-strip figure:first-child img { aspect-ratio: 16 / 10; }
+    .screenshot-strip figcaption { color: var(--muted); font-size: 12px; line-height: 1.3; margin-top: 5px; text-align: center; }
+    .card-visual { margin: 14px 0 10px; }
+    .card-visual img { width: 100%; aspect-ratio: 16 / 9; object-fit: contain; object-position: top center; border-radius: 9px; border: 1px solid var(--line-dark); background: #fff; display: block; cursor: zoom-in; }
+    .visual-placeholder { min-height: 190px; margin: 14px 0 10px; padding: 18px; border: 1px dashed #aebdc3; border-radius: 9px; background: #fff; display: flex; flex-direction: column; justify-content: center; gap: 6px; color: var(--muted); text-align: center; }
+    .visual-placeholder strong { color: var(--heading); }
+    .image-help { margin: 10px 0 2px; color: var(--muted); font-size: 13px; }
+    .image-lightbox { width: min(96vw, 1500px); max-width: none; border: 0; border-radius: 12px; padding: 0; background: #11161a; color: #fff; box-shadow: 0 28px 90px rgba(0,0,0,.45); }
+    .image-lightbox::backdrop { background: rgba(12,16,20,.88); }
+    .image-lightbox-inner { position: relative; padding: 50px 18px 18px; }
+    .image-lightbox img { display: block; width: 100%; max-height: 84vh; object-fit: contain; background: #fff; border-radius: 8px; cursor: default; }
+    .image-lightbox-caption { margin: 10px 4px 0; color: #d8dee3; font-size: 14px; text-align: center; }
+    .image-lightbox-close { position: absolute; top: 10px; right: 14px; border: 1px solid #66727b; border-radius: 999px; background: #20282e; color: #fff; width: 34px; height: 34px; font-size: 22px; line-height: 1; cursor: pointer; }
+    .cover-review { margin-top: 16px; padding: 14px; border: 1px dashed var(--line-dark); border-radius: 10px; background: var(--soft); }
+    .cover-review-title { margin: 0 0 10px; color: var(--heading); font-size: 14px; font-weight: 800; }
+    .cover-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+    .cover-options figure { margin: 0; }
+    .cover-options a { display: block; }
+    .cover-options img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; border: 1px solid var(--line-dark); background: #fff; display: block; }
+    .cover-options figcaption { margin-top: 5px; color: var(--muted); font-size: 12px; line-height: 1.35; }
+    .thumb.green { background: linear-gradient(135deg, #e8f7ee, #fbfffd); color: #2e6d4f; }
+    .thumb.blue { background: linear-gradient(135deg, #e7f4ff, #fbfdff); color: #2f668a; }
+    .venue { color: var(--muted); font-size: 14px; margin-bottom: 7px; }
+    .status { display: inline-block; font-size: 12px; font-weight: 800; color: #5f666c; background: #f2f3f3; border-radius: 4px; padding: 2px 6px; margin-right: 6px; }
+    .status.public { color: #25543c; background: #e9f7ef; }
+    .status.demo { color: #245a72; background: #e8f6fb; }
+    .status.placeholder { color: #735f20; background: #fff4c9; }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 9px; font-size: 14px; }
+    .links a, .links span { border-bottom: 1px solid transparent; }
+    .placeholder-box { border: 1px dashed var(--line-dark); background: var(--soft); padding: 13px; border-radius: 7px; color: var(--muted); }
+    .small { color: var(--muted); font-size: 14px; }
+    .privacy-note { background: #fbfbfb; border-left: 3px solid var(--accent2); padding: 10px 12px; color: #555; font-size: 14px; margin: 12px 0; }
+    footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+    @media (max-width: 900px) {
+      .masthead { position: static; }
+      .masthead-inner { align-items: flex-start; flex-direction: column; gap: 12px; }
+      nav { gap: 14px; }
+      .layout { grid-template-columns: 1fr; gap: 26px; }
+      .avatar { width: 145px; height: 145px; }
+      .two-col { grid-template-columns: 1fr; }
+      .project { grid-template-columns: 1fr; }
+      .screenshot-strip { grid-template-columns: 1fr; }
+      .screenshot-strip figure { grid-column: 1 !important; }
+      .cover-options { grid-template-columns: 1fr; }
+      .thumb { width: 100%; min-height: 70px; }
+    }
+  </style>
+<style>
+.proposal-switcher{position:fixed;z-index:90;left:50%;bottom:14px;transform:translateX(-50%);display:flex;align-items:center;gap:5px;padding:7px;background:#15283f;color:#fff;border:1px solid #ffffff30;border-radius:10px;box-shadow:0 14px 40px #0b1d3040;font-size:11px;white-space:nowrap}.proposal-switcher b{padding:0 8px;color:#b9cad9}.proposal-switcher a{color:#fff;text-decoration:none;padding:7px 9px;border-radius:6px}.proposal-switcher a:hover{background:#ffffff1c}.showcase-note{border:1px solid #d9e6eb;background:#f3fafb;border-radius:9px;padding:11px 13px;color:#4b6470;font-size:13px;margin:10px 0 18px}.project-tags{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}.project-tags span{font-size:11px;border:1px solid #d7e0e5;background:#f7fafb;border-radius:999px;padding:4px 7px;color:#526672}.showcase-link{display:inline-flex;text-decoration:none;border-radius:7px;padding:9px 12px;background:#163f56;color:#fff;font-weight:750;font-size:12px}.showcase-link.secondary{background:#fff;color:#163f56;border:1px solid #b9cad4}.showcase-media img{width:100%;display:block;border-radius:8px;border:1px solid var(--line-dark);cursor:zoom-in}.showcase-caption{font-size:11px;color:var(--muted);margin-top:6px}.showcase-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:13px}.showcase-button{border:1px solid #b9cad4;background:#fff;color:#163f56;border-radius:7px;padding:8px 11px;font-weight:750;font-size:12px;cursor:pointer}@media(max-width:760px){.proposal-switcher{left:10px;right:10px;transform:none;overflow-x:auto;justify-content:flex-start}.proposal-switcher b{display:none}}
+
+.stage-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;margin:17px 0 12px}.stage-label{font-size:12px;font-weight:850;letter-spacing:.06em;text-transform:uppercase;color:#53666f}.stage-play{display:inline-flex;align-items:center;gap:7px;border:1px solid #1b617c;background:#eaf6fa;color:#174a60;border-radius:999px;padding:7px 11px;font:inherit;font-size:12px;font-weight:850;cursor:pointer;box-shadow:0 2px 8px rgba(27,97,124,.12);transition:background .15s ease,border-color .15s ease,color .15s ease,box-shadow .15s ease}.stage-play:hover{background:#d8eff6;box-shadow:0 3px 12px rgba(27,97,124,.2)}.stage-play[aria-pressed="false"]{background:#fff1c7;border-color:#c88713;color:#654600;box-shadow:0 2px 9px rgba(200,135,19,.18)}.stage-play[aria-pressed="false"]:hover{background:#ffe7a5}.stage-selectors{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:0 0 12px}.stage-select{position:relative;overflow:hidden;min-height:52px;border:1px solid #cddce3;background:#fff;border-radius:9px;padding:9px 10px;text-align:left;cursor:pointer;color:#526671;font:inherit;transition:transform .15s ease,border-color .15s ease,background .15s ease}.stage-select:hover{transform:translateY(-1px);border-color:#7ca9ba;background:#f8fcfd}.stage-select .stage-number{display:block;font-size:10px;line-height:1;font-weight:900;letter-spacing:.08em;color:#5f6f78;margin-bottom:5px}.stage-select .stage-name{display:block;font-size:12px;line-height:1.25;font-weight:800}.stage-select.active{border-color:#1b617c;background:#eaf6fa;color:#183f52;box-shadow:inset 0 0 0 1px #1b617c}.stage-select.active .stage-number{color:#1b617c}.stage-select-progress{position:absolute;left:0;bottom:0;height:3px;width:0;background:#1b617c}.stage-select.active.is-playing .stage-select-progress{animation:stageProgress 10s linear forwards}@keyframes stageProgress{from{width:0}to{width:100%}}.featured-stage{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(270px,.6fr);gap:28px;align-items:center;background:linear-gradient(135deg,#fff,var(--soft-blue));border:1px solid #d5e5eb;border-radius:12px;padding:17px;transition:opacity .18s ease}.featured-stage.is-changing{opacity:.35}.featured-stage .showcase-media img{aspect-ratio:16/10;object-fit:contain;background:#fff}.stage-copy h3{font-size:29px;margin:7px 0 10px}.stage-copy p{font-size:17px;color:#526671}@media(prefers-reduced-motion:reduce){.stage-select-progress,.skill-select-progress{animation:none!important}.featured-stage,.stage-select,.agent-showcase,.skill-select{transition:none}}@media(max-width:800px){.stage-toolbar{align-items:flex-start}.stage-selectors{display:flex;overflow-x:auto;padding:1px 1px 7px;scroll-snap-type:x proximity}.stage-select{min-width:170px;scroll-snap-align:start}.featured-stage{grid-template-columns:1fr}}
+.skills-repo-actions{margin:12px 0 16px}.skill-selectors{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:0 0 12px}.skill-select{position:relative;overflow:hidden;min-height:52px;border:1px solid #d7ddec;background:#fff;border-radius:9px;padding:9px 10px;text-align:left;cursor:pointer;color:#58667a;font:inherit;transition:transform .15s ease,border-color .15s ease,background .15s ease}.skill-select:hover{transform:translateY(-1px);border-color:#9484d8;background:#faf9ff}.skill-select .stage-number{display:block;font-size:10px;line-height:1;font-weight:900;letter-spacing:.08em;color:#626b78;margin-bottom:5px}.skill-select .stage-name{display:block;font-size:12px;line-height:1.25;font-weight:800}.skill-select.active{border-color:#6b56bf;background:#f0edff;color:#41328a;box-shadow:inset 0 0 0 1px #6b56bf}.skill-select.active .stage-number{color:#6b56bf}.skill-select-progress{position:absolute;left:0;bottom:0;height:3px;width:0;background:#6b56bf}.skill-select.active.is-playing .skill-select-progress{animation:stageProgress 10s linear forwards}.agent-showcase{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(280px,.75fr);gap:25px;align-items:center;margin-top:0;border:1px solid #ccd8e3;background:linear-gradient(135deg,#f7f9ff 0%,#fff 55%,#f4f1ff 100%);border-radius:12px;padding:18px;box-shadow:0 16px 34px rgba(31,47,78,.09)}.agent-showcase-media{min-width:0}.agent-showcase-media img{width:100%;max-height:520px;object-fit:contain;display:block;border:1px solid #cbd5df;border-radius:8px;background:#e9edf3;box-shadow:0 10px 24px rgba(27,40,64,.13);cursor:zoom-in}.agent-showcase-media .caption{margin-top:8px;font-size:11px;color:#657384}.agent-showcase-copy .eyebrow{color:#6b56bf}.agent-showcase-copy h3{margin:4px 0 8px;font-family:Georgia,serif;font-size:25px;color:#27364c}.agent-showcase-copy p{margin:0 0 10px}.agent-showcase-copy .showcase-actions{margin-top:12px}@media(max-width:800px){.skill-selectors{grid-template-columns:repeat(2,minmax(0,1fr))}.agent-showcase{grid-template-columns:1fr}.agent-showcase-media img{max-height:none}}@media(prefers-reduced-motion:reduce){.skill-select-progress{animation:none!important}}
+.interest-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:stretch}.interest-panel{border:1px solid var(--line);border-radius:10px;background:#fff;padding:17px 18px}.interest-panel h3{margin:0 0 10px;font-family:Georgia,serif;font-size:19px;color:#2f3b45}.interest-panel .compact-list{margin-bottom:0}.character-panel{background:#fbfcfd}.interest-subgroup h3{margin-bottom:6px;font-size:15px}.interest-subgroup .compact-list{padding-left:18px;font-size:12px;line-height:1.35}.interest-subgroup .compact-list li{margin:3px 0}.interest-subgroup+.interest-subgroup{border-top:1px solid var(--line);margin-top:11px;padding-top:11px}.interest-tags{display:flex;flex-wrap:wrap;gap:8px}.interest-tags span{display:inline-flex;align-items:center;border:1px solid #d6e0e5;background:#f7fafb;border-radius:999px;padding:7px 10px;color:#455963;font-size:12px;line-height:1.25}@media(max-width:700px){.interest-grid{grid-template-columns:1fr}}
+.project.anonymous-project{background:linear-gradient(180deg,#fff 0%,#f8fafb 100%)}.anonymous-cover{width:100%;aspect-ratio:16/9;border:1px solid #d8e0e5;border-radius:9px;background:#f3f6f8;display:flex;flex-direction:column;justify-content:center;gap:16px;padding:34px;filter:blur(6px);opacity:.68;overflow:hidden}.anonymous-cover-line{display:block;height:16px;border-radius:999px;background:#aebbc3}.anonymous-cover-line:nth-child(2){width:82%}.anonymous-cover-line:nth-child(3){width:64%}.anonymous-blur{filter:blur(5px);opacity:.58;user-select:none;pointer-events:none}.anonymous-project .anonymous-blur h3,.anonymous-project h3.anonymous-blur{margin-bottom:10px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+</style>
+<style>
+/* Draft 009 / V2: compact product evidence and accessible image galleries. */
+.product-gallery{width:100%;min-width:0;max-width:100%;margin:15px 0 10px}.gallery-frame{position:relative;min-width:0;max-width:100%}.gallery-main{width:100%;aspect-ratio:16/10;object-fit:contain;object-position:top center;border:1px solid var(--line-dark);border-radius:9px;background:#fff;display:block;cursor:zoom-in}.gallery-image-tag{position:absolute;z-index:2;left:10px;top:10px;max-width:calc(100% - 20px);padding:6px 8px;border:1px solid rgba(255,255,255,.5);border-radius:6px;background:rgba(18,32,48,.88);box-shadow:0 4px 16px rgba(10,22,35,.18);color:#fff;font-size:9px;line-height:1.2;font-weight:900;letter-spacing:.07em;text-transform:uppercase;pointer-events:none}.gallery-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:9px 0 7px}.gallery-caption{color:var(--muted);font-size:12px;line-height:1.35}.gallery-toggle{flex:0 0 auto;border:1px solid #1b617c;background:#eaf6fa;color:#174a60;border-radius:999px;padding:6px 11px;font:inherit;font-size:12px;font-weight:850;cursor:pointer}.gallery-toggle[aria-pressed="false"]{background:#fff1c7;border-color:#c88713;color:#654600}.gallery-thumbs{display:flex;width:100%;min-width:0;max-width:100%;gap:8px;overflow-x:auto;padding:2px 1px 7px;scroll-snap-type:x proximity}.gallery-thumb{flex:0 0 92px;padding:3px;border:2px solid transparent;border-radius:7px;background:#fff;cursor:pointer;scroll-snap-align:start}.gallery-thumb:hover,.gallery-thumb:focus-visible{border-color:#8ab9ca}.gallery-thumb.active{border-color:#1b617c;background:#eaf6fa}.gallery-thumb img{width:100%;height:55px;object-fit:cover;object-position:top;border-radius:4px;display:block}.gallery-thumb span{display:block;margin-top:3px;color:#58666d;font-size:10px;line-height:1.2;text-align:left}.gallery-thumb.active span{color:#174a60;font-weight:800}.gallery-thumb.is-playing{position:relative;overflow:hidden}.gallery-thumb.is-playing:after{content:"";position:absolute;left:0;bottom:0;width:100%;height:3px;background:#1b617c;animation:stageProgress 10s linear forwards}
+.stage-play[aria-pressed="true"],.gallery-toggle[aria-pressed="true"]{background:#eaf6fa;border-color:#1b617c;color:#174a60}.stage-play[aria-pressed="true"]:hover,.gallery-toggle[aria-pressed="true"]:hover{background:#d8eff6}.stage-play[aria-pressed="false"],.gallery-toggle[aria-pressed="false"]{background:#fff1c7;border-color:#c88713;color:#654600}.stage-play[aria-pressed="false"]:hover,.gallery-toggle[aria-pressed="false"]:hover{background:#ffe7a5}.featured-stage-v2{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(290px,.85fr);gap:24px;align-items:start;border:1px solid #d9e6eb;border-radius:11px;background:#fbfdfe;padding:18px;transition:opacity .16s ease}.featured-stage-v2.is-changing{opacity:.55}.stage-gallery-main{width:100%;aspect-ratio:16/10;object-fit:contain;object-position:top center;border:1px solid var(--line-dark);border-radius:9px;background:#fff;display:block;cursor:zoom-in}.stage-copy h3{font-size:21px}.stage-value{font-size:15px;color:#40515a;margin-bottom:13px}.evidence-grid{display:grid;grid-template-columns:1fr;gap:9px;margin:0 0 11px}.evidence-block{border-top:2px solid #d9e6eb;padding-top:8px}.evidence-block h4{margin:0 0 5px;color:#33434b;font-size:12px;text-transform:uppercase;letter-spacing:.045em}.evidence-block p,.evidence-block ul{margin:0;font-size:13px;line-height:1.45}.evidence-block ul{padding-left:17px}.evidence-block li{margin:3px 0}.proof-line{margin:9px 0 12px;padding-left:9px;border-left:2px solid #8fb7c7;color:#52636b;font-size:12px;font-weight:700}.ask-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.ask-tile{margin:0}.ask-tile img{width:100%;aspect-ratio:4/3;object-fit:cover;object-position:top;border:1px solid var(--line-dark);border-radius:7px;background:#fff;display:block}.ask-tile figcaption{font-size:10px;color:var(--muted);line-height:1.25;margin-top:3px}.stage-media-note{margin:6px 0 0;color:var(--muted);font-size:11px;line-height:1.35}.stage-select-progress{animation:none!important}.stage-select.active.is-playing .stage-select-progress{animation:stageProgress 10s linear forwards!important}.stage-thumb-progress{height:3px;background:#1b617c;width:0;margin-top:4px;border-radius:2px}.gallery-thumb.active.is-playing .stage-thumb-progress{animation:stageProgress 10s linear forwards}
+@media(max-width:800px){.featured-stage-v2{grid-template-columns:1fr}.evidence-grid{grid-template-columns:1fr}.stage-selectors{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible;padding:0}.stage-select{min-width:0}.skill-selectors{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.gallery-thumb{flex-basis:78px}.gallery-thumb img{height:46px}.ask-grid{gap:6px}.featured-stage-v2{padding:12px}.stage-selectors{grid-template-columns:1fr 1fr}.stage-select{padding:7px;min-height:48px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.stage-select-progress,.stage-thumb-progress{animation:none!important}.featured-stage-v2{transition:none}}
+</style></head>
+<body>
+<header class="masthead">
+<div class="masthead-inner">
+<a class="site-title" href="#top">Riteng Zhang (Gavin)</a>
+<nav aria-label="Main navigation">
+<a href="#awards">Awards</a>
+<a href="#research-projects">Research</a>
+<a href="#teaching">Teaching</a>
+</nav>
+</div>
+</header>
+<div class="layout" id="top">
+<aside>
+<img alt="Riteng Zhang (Gavin)" class="avatar" src="assets/profile.jpeg"/>
+<h1 class="author-name">Riteng Zhang (Gavin)</h1>
+<p class="author-title">PhD Student · Purdue ECE</p>
+<ul class="author-links">
+<li><span class="sidebar-label">Purdue email</span><span class="email-display">zhan5982@purdue.edu</span></li>
+<li><span class="sidebar-label">Profile</span><a href="https://github.com/ritengzhang" rel="noopener noreferrer" target="_blank">GitHub</a> · <a href="https://scholar.google.com/citations?user=pnb2RBsAAAAJ" rel="noopener noreferrer" target="_blank">Google Scholar</a></li>
+
+</ul>
+</aside>
+<main>
+<section id="about">
+<h2>About</h2>
+<p>I am currently a second-year PhD student in Purdue ECE, advised by Xiaoqian (Joy) Wang, working on LLM interpretability.</p>
+<p>I earned B.A. degrees in Computer Science and Mathematics, with a minor in Philosophy, from Boston College. During my undergraduate studies, I was advised by Professors Emily Prud’hommeaux, Sergio Alvarez, Yuan Yuan, and Maira Marques Samary.</p>
+<p class="contact-display"><strong>Email:</strong> <span class="email-display">zhan5982@purdue.edu</span></p>
+</section>
+<section id="interests">
+<h2>Interests</h2>
+<div class="interest-grid">
+<article class="interest-panel research-panel">
+<h3>AI/ML research</h3>
+<ul class="compact-list">
+<li><strong>Mechanistic interpretability</strong></li>
+<li><strong>LLM interpretability</strong></li>
+<li><strong>AI safety</strong></li>
+<li><strong>Modular neural networks</strong></li>
+</ul>
+</article>
+<article class="interest-panel character-panel">
+<div class="interest-subgroup">
+<h3>Philosophy</h3>
+<ul class="compact-list">
+<li><strong>Epistemology</strong></li>
+<li><strong>Philosophy of science</strong></li>
+<li><strong>Philosophy of religion</strong></li>
+<li><strong>Pragmaticism</strong></li>
+</ul>
+</div>
+<div class="interest-subgroup">
+<h3>History</h3>
+<ul class="compact-list">
+<li><strong>Chinese history</strong></li>
+<li><strong>Roman history</strong></li>
+<li><strong>Medieval history</strong></li>
+<li><strong>Central and West Asian history</strong></li>
+</ul>
+</div>
+</article>
+</div>
+</section>
+<section id="awards">
+<h2>Awards &amp; Achievements</h2>
+<ul class="compact-list">
+<li><strong>John McCarthy, S.J., Award for Natural Science</strong> — Boston College, May 2024. Awarded annually to one student for the best senior thesis in Natural Science.</li>
+<li><strong>Neuhauser Award</strong> — Boston College Computer Science, May 2024. Awarded annually to 1–2 Computer Science students receiving exceptional recognition from faculty.</li>
+<li><strong>Scholar of the College</strong> — Boston College, May 2024. Awarded to exceptional students who completed substantial, high-quality independent work under faculty supervision.</li>
+</ul>
+</section>
+<section id="research-projects">
+<h2>Research Projects</h2>
+<div class="project-list">
+<article class="card" id="sae-evaluation">
+<h3>Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy</h3>
+<div class="venue"><span class="status public">accepted</span> <strong>NeurIPS 2026</strong> · Evaluations &amp; Datasets Track</div>
+<p><strong>Riteng Zhang</strong>, Xiaoqian Wang</p>
+<p>We evaluate sparse autoencoders as systems of atomic interpretable units, examining non-redundancy, completeness, monosemanticity, dead units, and sparsity. Our framework reveals a dominant-feature failure mode: highly influential features can remain polysemantic or redundant even when conventional evaluations appear favorable.</p>
+<div class="links">
+<a href="https://arxiv.org/abs/2610.30474" rel="noopener noreferrer" target="_blank">Paper (arXiv)</a>
+<a href="https://github.com/ritengzhang/SAE-AIU" rel="noopener noreferrer" target="_blank">Code</a>
+<a href="https://huggingface.co/ritengzhang/SAE-AIU" rel="noopener noreferrer" target="_blank">SAE checkpoints</a>
+</div>
+</article>
+<article class="project anonymous-project" aria-label="Research work in review for ICLR 2027; title and details withheld">
+<div class="project-media" aria-hidden="true">
+<div class="anonymous-cover"><span class="anonymous-cover-line"></span><span class="anonymous-cover-line"></span><span class="anonymous-cover-line"></span></div>
+<div class="caption anonymous-blur">Research visual withheld during peer review.</div>
+</div>
+<div>
+<h3 class="anonymous-blur" aria-hidden="true">Research title withheld during peer review</h3>
+<div class="venue"><span class="status public">in review</span> ICLR 2027</div>
+<p class="anonymous-blur" aria-hidden="true">Research summary and project details are withheld while the work is under review.</p>
+<span class="sr-only">Title and details withheld during review.</span>
+</div>
+</article>
+<article class="project">
+<div class="project-media">
+<img alt="Values connected through internal model features to concrete action choices" class="demo-img" src="assets/value-action-cover-a-decision-bridge.png"/>
+<div class="caption">How values may connect to internal features and concrete choices.</div>
+</div>
+<div>
+<h3>What Models Say vs. How They Act: Mechanistic Interpretability of Value–Action Gaps</h3>
+<div class="venue"><span class="status public">ongoing research</span> Mechanistic interpretability · language model behavior</div>
+<p>We study how language models translate abstract value preferences into concrete choices. The project connects behavioral experiments with activation-level and causal evidence inside the model.</p>
+<div class="links">
+<a href="/value-action-atlas/" rel="noopener noreferrer" target="_blank">Open the Value Feature Browser</a>
+</div>
+</div>
+</article>
+<article class="project">
+<div class="project-media">
+<img alt="Interpretability methods becoming a formalized reusable toolkit" class="demo-img" src="assets/thesis-cover-a-fai-toolkit.png"/>
+<div class="caption">From individual interpretability methods to a reusable formal toolkit.</div>
+</div>
+<div>
+<h3>A Framework for Formalizing and Automating Interpretability</h3>
+<div class="venue"><span class="status public">academic work</span> Boston College senior thesis · 2024</div>
+<p>My senior thesis introduced the Formalizing and Automating Interpretability Toolkit (FAI), a structured way to describe, compare, select, and implement interpretability methods.</p>
+<div class="links"><a href="https://drive.google.com/file/d/1o4Ds3zE-oLlo7Ho0rgVn8BDt1xZLB0oq/view?usp=sharing" rel="noopener noreferrer" target="_blank">Read the thesis (Google Drive)</a></div>
+</div>
+</article>
+</div>
+
+</section>
+<section id="teaching">
+<h2>Teaching</h2>
+<p>At Boston College, I served as a teaching assistant for two upper-level computer science courses. I supported Machine Learning for two semesters.</p>
+<div class="two-col">
+<article class="card">
+<div class="eyebrow">Boston College · Teaching Assistant</div>
+<h3>Machine Learning (CSCI3345.01)</h3>
+<div class="venue">Two semesters · 2023–2024</div>
+<p>Graded assignments, held office hours, and designed selected homework and sample code across both semesters.</p>
+</article>
+<article class="card">
+<div class="eyebrow">Boston College · Teaching Assistant</div>
+<h3>Vision and Learning (CSCI3399.01)</h3>
+<div class="venue">2023–2024</div>
+<p>Graded assignments, held office hours, and organized student presentations.</p>
+</article>
+</div>
+</section>
+<footer>Riteng Zhang (Gavin) · Personal website</footer>
+</main>
+</div>
+<dialog aria-label="Expanded image preview" class="image-lightbox" id="image-lightbox">
+<div class="image-lightbox-inner">
+<button aria-label="Close expanded image" class="image-lightbox-close" type="button">×</button>
+<img alt="" id="image-lightbox-img"/>
+<p class="image-lightbox-caption" id="image-lightbox-caption"></p>
+</div>
+</dialog>
+<script>
+(() => {
+  const dialog=document.getElementById('image-lightbox');
+  const expanded=document.getElementById('image-lightbox-img');
+  const caption=document.getElementById('image-lightbox-caption');
+  const closeButton=dialog.querySelector('.image-lightbox-close');
+  function prepareImage(img){
+    if(img.closest('.gallery-thumb')) return;
+    img.tabIndex=0;img.setAttribute('role','button');img.removeAttribute('aria-label');
+  }
+  function openImage(img,event){
+    if(event)event.preventDefault();
+    expanded.src=img.currentSrc||img.src;expanded.alt=img.alt||'Expanded preview';
+    const figure=img.closest('figure');
+    const figureCaption=figure?.querySelector('figcaption')?.textContent.trim()||'';
+    const nearby=img.parentElement?.querySelector('.caption,.gallery-caption,.stage-media-note')?.textContent.trim()||'';
+    caption.textContent=figureCaption||nearby||img.alt||'';dialog.showModal();
+    window.imageLightboxOpen=true;window.dispatchEvent(new Event('lightboxchange'));
+  }
+  document.querySelectorAll('main img').forEach(prepareImage);
+  document.querySelector('main').addEventListener('click',event=>{
+    if(event.target.closest('.gallery-thumb'))return;
+    const img=event.target.closest('img');
+    if(img)openImage(img,event);
+  });
+  document.querySelector('main').addEventListener('keydown',event=>{const img=event.target.closest('img[role="button"]');if(img&&(event.key==='Enter'||event.key===' '))openImage(img,event)});
+  new MutationObserver(records=>records.forEach(r=>r.addedNodes.forEach(node=>{if(node.nodeType!==1)return;if(node.matches?.('img'))prepareImage(node);node.querySelectorAll?.('img').forEach(prepareImage)}))).observe(document.querySelector('main'),{childList:true,subtree:true});
+  closeButton.addEventListener('click',()=>dialog.close());
+  dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close()});
+  dialog.addEventListener('close',()=>{window.imageLightboxOpen=false;window.dispatchEvent(new Event('lightboxchange'))});
+})();
+</script>
+</body>
+</html>
